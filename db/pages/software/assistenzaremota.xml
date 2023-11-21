@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Assistenza Remota</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Tool per avviare la schermata di richiesta di "Assistenza Remota" su windows.\n
+\n
+### Download: \n
+[1.0]({{siteurl}}/repository/AssistenzaRemota.zip)\n
+### Rilasci:\n
+- [1.0]({{siteurl}}/articles/2010/11/15/assistenzaremota-10) - 15/11/2010 \n
+]]>
+        </content>
+    </page>
+</object>

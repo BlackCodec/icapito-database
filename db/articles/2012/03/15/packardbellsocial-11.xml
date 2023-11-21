@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>Packard Bell Social – v. 1.1</title>
+        <description><![CDATA[
+Aggiornamento per il software con aggiunta del supporto alle cartelle program files a 32 e 64 bit.
+        ]]></description>
+        <content>
+<![CDATA[
+Aggiornato il software sviluppato da Black_Codec. \n
+Ora riesce tranquillamente a gestire sia os a 32bit che a 64bit grazie alla possibilità 
+di utilizzare sia per la cartella di avvio che per l’eseguibile da avviare le seguenti due 
+nuove variabili: \n
+```
+    [progdir]
+    [progdir64]
+```
+\n
+Per i sistemi a 32 bit entrambe le variabili punteranno a C:\Programmi (o C:\Program Files) 
+mentre per i sistemi a 64bit punteranno una a C:\Programmi (x86) (o C:\Program Files (x86)) 
+e l’altra (progdir64) a C:\Programmi (o C:\Program Files). \n
+\n
+Come al solito trovare il file nella nostra sezione dei [download]({{siteurl}}/pages/software/packardbellsocial).
+]]>
+        </content>
+        <tag>portable,software,windows</tag>
+        <category>Download,Software,Windows</category>
+    </article>
+</object>
+
+

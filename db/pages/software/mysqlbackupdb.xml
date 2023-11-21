@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>MySQL Backup DB</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Semplice applicativo che si occupa di creare backup dei database in formato sql. \n
+\n
+### Download: \n
+[1.0]({{siteurl}}/repository/MySQLBackupDB10.zip)\n
+### Rilasci:\n
+- [1.0]({{siteurl}}/articles/2011/06/03/mysqlbackupdb-10) - 03/06/2011 \n
+]]>
+        </content>
+    </page>
+</object>

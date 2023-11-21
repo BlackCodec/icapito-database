@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Benvenuti su iCapito.it (ex UndeR A TraiN and BlackGroup)</title>
+        <content>
+<![CDATA[
+### Ultimi articoli \n
+- [(29/04/2018) Advanced Run - 1.2]({{siteurl}}/articles/2018/04/29/advancedrun-12) \n
+- [(28/04/2018) Advanced Run - 1.1]({{siteurl}}/articles/2018/04/28/advancedrun-11) \n
+- [(22/04/2018) Advanced Run - 1.0]({{siteurl}}/articles/2018/04/22/advancedrun-10) \n
+- [(15/10/2017) My Custom Starts - 1.1]({{siteurl}}/articles/2017/10/15/mycustomstarts-11) \n
+- [(01/02/2017) Middle Mouse Menu - 2.0]({{siteurl}}/articles/2017/02/01/middlemousemenu-20) \n
+\n
+\n
+### Ultimi rilasci \n
+- [Advanced Run - 1.2]({{siteurl}}/pages/software/advancedrun) - 29/04/2018 \n
+- [My Custom Starts - 1.1]({{siteurl}}/pages/software/mycustomstarts) - 15/10/2017 \n
+- [Middle Mouse Menu - 2.0]({{siteurl}}/pages/software/middlemousemenu) - 01/02/2017 \n
+]]>
+        </content>
+    </page>
+</object>

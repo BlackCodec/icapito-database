@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>404 - OOOOPS</title>
+        <content>
+<![CDATA[
+Ecco lo sapevo hai rotto l'internet!!! \n
+---
+La pagina richiesta non è stata trovata oppure non esiste.
+]]>
+        </content>
+    </page>
+</object>

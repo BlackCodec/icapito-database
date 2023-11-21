@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Middle Mouse Menu</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Un menu che si attiva con il tasto centrale del mouse. \n
+\n
+### Download: \n
+[2.0]({{siteurl}}/repository/MiddleMouseMenu20.zip)\n
+### Rilasci:\n
+- [2.0]({{siteurl}}/articles/2017/02/01/middlemousemenu-20) - 01/02/2017 \n
+- [1.0]({{siteurl}}/articles/2012/01/21/middlemousemenu-10) - 01/02/2017 \n
+]]>
+        </content>
+    </page>
+</object>

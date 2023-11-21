@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>list:article:5</type>
+    <title>Home</title>
+    <article1>
+        <title>AdvancedRun 1.2</title>
+        <description><![CDATA[
+Neanche il tempo di pubblicare la versione 1.1 che subito ecco uscire la nuova versione 1.2.\n
+Oltre alla risoluzione di un fastidioso bug che inseriva due volte tutti gli alias multi valore sono state aggiunte alcune funzioni interessanti, scopriamole insieme.
+        ]]></description>
+        <readmore>{{siteurl}}/articles/2018/04/29/advancedrun-12</readmore>
+    </article1>
+    <article2>
+        <title>AdvancedRun 1.1</title>
+        <description><![CDATA[
+Subito un aggiornamento peril nuovo programma advanced run, molte le modifiche sotto il cofano ma vediamo quelle più evidenti.\n
+Aggiunta la possibilità di configurare alcuni aspetti del programma, come ad esempio l’hotkey che mostra la finestra di run, la possibilità di mostrare o nascondere un’icona nella tray e molto altro ancora.
+        ]]></description>
+        <readmore>{{siteurl}}/articles/2018/04/28/advancedrun-11</readmore>
+    </article2>
+    <article3>
+        <title>AdvancedRun 1.0</title>
+        <description><![CDATA[
+Dopo parecchio tempo finalmente torno a scrivere sul blog.\n
+Colgo questa occasione per annunciare l’esistenza di AdvancedRun.
+        ]]></description>
+        <readmore>{{siteurl}}/articles/2018/04/22/advancedrun-10</readmore>
+    </article3>
+    <article4>
+        <title>My Custom Starts 1.1</title>
+        <description><![CDATA[
+Ecco a voi un piccolo eseguibile che ha un semplice scopo, avviare dei programmi con dei parametri ben precisi.
+        ]]></description>
+        <readmore>{{siteurl}}/articles/2017/10/15/my-custom-starts-1-1</readmore>
+    </article4>
+    <article5>
+        <title>Titolo 5</title>
+        <description>Breve descrizione 5</description>
+        <readmore>{{siteurl}}/articles/2018/12/01/articolo2</readmore>
+    </article5>
+</object>

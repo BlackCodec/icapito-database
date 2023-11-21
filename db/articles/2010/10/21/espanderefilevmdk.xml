@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>Espandere un file vmdk</title>
+        <description><![CDATA[
+Come espandere un hard disk virtuale di VmWare.
+        ]]></description>
+        <content>
+<![CDATA[
+Per espandere la dimensione di un disco virtuale (VMWare), aprire il prompt di DOS o la console in linux, 
+recarsi nella directory di installazione di VMWare e lanciare il seguente comando:\n
+```
+    vmware-vdiskmanager -x <totale>GB <nomedisco>.vmdk
+```
+\n
+dove **<totale>** sarà la dimensione finale del disco e il nome del file vmdk, quindi ad esempio se io voglio espandere il disco 
+*MacchinaVirtuale1.vmdk* e lo voglio portare dai suoi 3 giga a *60 giga*, dovrò digitare: \n
+```
+    vmware-vdiskmanager -x 60GB MacchinaVirtuale1.vmdk
+```
+\n
+Attenzione perché se il file vmdk si trova in un altra cartella dovrete inserire l'intero percorso al file, quindi: \n
+```
+    vmware-vdiskmanager -x 60GB "C:\Macchine Virtuali\Macchina1\VirtualHD\MacchinaVirtuale1.vmdk"
+```
+\n
+Notate che in dos se vi sono spazi nel nome della cartella questa va posta tra le virgolette o doppi apici ( " ) in maniera tale da far 
+gestire al dos la stessa come se fosse un'unica stringa altrimenti si bloccherebbe al primo spazio. \n
+Su linux il percorso sarà del tipo */home/Utente/.MacchineVirtuali/Macchina1/VirtualHD/MacchinaVirtuale1.vmdk*. \n
+
+L'unico consiglio è di effettuare un backup o magari procedere su una copia del disco, non si sa mai. \n
+\n
+Una volta eseguito il comando verrà avviato il processo e a fine processo comparirà:\n
+```
+    Grow: 100% done.
+
+    Disk expansion completed successfully.
+
+    WARNING: If the virtual disk is partitioned, you must use a third-party utility in the virtual machine to expand the 
+    size of the partitions. For more information, see:http://www.vmware.com/support/kb/enduser/std_adp.php?p_faqid=1647
+```
+\n
+Questo messaggio vi segnala che se il sistema operativo che gira sulla macchina virtuale non supporta l'espansione del disco dovrete 
+usare un altro programma. Attualmente i sistemi che supportano l'espansione del disco sono tuttavia legati al concetto di contiguità, 
+ovvero due partizioni devono essere contigue per essere espanse quindi nel caso abbiamo due partizioni C e D e vogliamo espandere C 
+avremo bisogno di un altro programma o dovremo cancellare la partizione D, espandere la C fino alla dimensione voluta e successivamente 
+ricreare la D con lo spazio rimanente. Su linux siamo avvantaggiati poiché esistono tool in grado di gestire le partizioni in maniera migliore.
+]]>
+        </content>
+        <tag>espansione,server,vmdk,guida,vmware</tag>
+        <category>Guide,VmWare</category>
+    </article>
+</object>
+
+

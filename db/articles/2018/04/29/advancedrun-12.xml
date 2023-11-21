@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>AdvancedRun 1.2</title>
+        <description><![CDATA[
+Neanche il tempo di pubblicare la versione 1.1 che subito ecco uscire la nuova versione 1.2.\n
+Oltre alla risoluzione di un fastidioso bug che inseriva due volte tutti gli alias multi valore sono state aggiunte alcune funzioni interessanti, scopriamole insieme.
+        ]]></description>
+        <content>
+            <![CDATA[
+A partire da questa versione è possibile utilizzare la combinazione di tasti maiuscolo e invio per lanciare il comando come amministratore, sempre ammesso che l’utente sia in grado di eseguire gli applicativi con questa funzionalità.\n
+Sono state inoltre aggiunte le opzioni per gestire la posizione (conf.position), la dimensione (conf.dimension), un eventuale offset dal bordo (conf.offset).\n\n
+Nel dettaglio conf.position richiede che i valori siano nel formato x-y dove x e y rappresentano i pixel ad esempio per mostrare la finestra in basso a sinistra basterà impostare questi valori a 0-0 (zero trattitno zero).\n
+Accetta dei valori predefiniti per gestire la posizione ad esempio center in questo caso verrà mostrato centrato rispetto allo schermo, center si può riferire a x o y.\n
+X accetta inoltre altri due possibili valori left e right, mentre Y accetta i valori top e bottom.\n
+E’ possibile inoltre definire un offset dal bordo per x e y con la stessa sintassi del parametro position (x-y).\n
+Infine è possibile definire le dimensioni (conf.dimension) della barra da visualizzare (lunghezza – altezza) separati da un trattino in pixel.\n
+Tra le novità spicca la possibilità di definire il carattere e la dimensione dello stesso (conf.font) da utilizzare all’interno della finestra, di default viene utilizzato Consolas a 18pt, la sintassi è nome_carattere/dimensione_carattere_in_pt.\n
+Ultimo parametro configurabile infine è conf.notification che consente di disabilitare (impostandolo a 0 – zero) il tootltip che appare sotto al mouse quando si tenta di eseguire un alias o un programma. Un valore diverso da 0 (zero) indica il tempo in secondi prima di far sparire il tootltip, quindi ad esempio un valore settato a 5 indicherà di aspettare 5 secondi prima di nascondere il tooltip.\n
+Vi lascio come di consueto al [download]({{siteurl}}/pages/software/advancedrun).
+            ]]>
+        </content>
+        <tag>hotkey,portable,software,windows</tag>
+        <category>Download,Software,Windows</category>
+    </article>
+</object>
+
+

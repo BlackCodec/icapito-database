@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Check DNS Record</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Un’utile interfaccia grafica per verificare che un record dns abbia la reverse 
+puntata in maniera corretta. \n
+\n
+### Download: \n
+[1.0]({{siteurl}}/repository/checkdnsrecord10.zip)\n
+### Rilasci:\n
+- [1.0]({{siteurl}}/articles/2013/09/10/checkdnsrecord-10) - 10/09/2013 \n
+]]>
+        </content>
+    </page>
+</object>

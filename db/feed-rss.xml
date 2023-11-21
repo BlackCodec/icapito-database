@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+	<title>iCapito</title>
+	<link>https://www.icapito.it</link>
+	<description>Ex UndeR A TraiN and BlackGroup</description>
+	<lastBuildDate>Sun, 29 Apr 2018 16:34:40 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<item>
+		<title>AdvancedRun 1.2</title>
+		<link>https://www.icapito.it/articles/2018/04/29/advancedrun-12</link>
+		<description><![CDATA[Neanche il tempo di pubblicare la versione 1.1 che subito ecco uscire la nuova versione 1.2. Oltre alla risoluzione di un fastidioso bug che inseriva due volte tutti gli alias multi valore sono state aggiunte alcune funzioni interessanti, scopriamole insieme. A partire da questa versione è possibile utilizzare la combinazione di tasti maiuscolo e invio <a class="read-more" href="https://www.icapito.it/articles/2018/04/29/advancedrun-12">[&#8230;]</a>]]></description>
+		</item>
+		<item>
+		<title>AdvancedRun 1.1</title>
+		<link>https://www.icapito.it/articles/2018/04/28/advancedrun-v-11</link>
+		<description><![CDATA[Subito un aggiornamento peril nuovo programma advanced run, molte le modifiche sotto il cofano ma vediamo quelle più evidenti. Aggiunta la possibilità di configurare alcuni aspetti del programma, come ad esempio l&#8217;hotkey che mostra la finestra di run, la possibilità di mostrare o nascondere un&#8217;icona nella tray e molto altro ancora. Questo applicativo consente di <a class="read-more" href="https://www.icapito.it/articles/2018/04/28/advancedrun-v-11">[&#8230;]</a>]]></description>
+		</item>
+		<item>
+		<title>AdvancedRun 1.0</title>
+		<link>https://www.icapito.it/articles/2018/04/22/advancedrun-10</link>
+		<description><![CDATA[Dopo parecchio tempo finalmente torno a scrivere sul blog. Colgo questa occasione per annunciare l&#8217;esistenza di AdvancedRun. Questo applicativo consente di associare degli alias a dei comandi comuni e di eseguirli. Il tutto si configura attraverso un unico file di configurazione all&#8217;interno della directory dell&#8217;eseguibile, tale file contiene una riga per ogni alias da creare. <a class="read-more" href="https://www.icapito.it/articles/2018/04/22/advancedrun-10">[&#8230;]</a>]]></description>
+		</item>
+		<item>
+		<title>My Custom Starts 1.1</title>
+		<link>https://www.icapito.it/articles/2017/10/15/mycustomstarts-11</link>
+		<description><![CDATA[Ecco a voi un piccolo eseguibile che ha un semplice scopo, avviare dei programmi con dei parametri ben precisi. Il tutto è comandato da un semplice file di configurazione dove ogni riga indica un programma e la cui sintassi è esplicitata nel file examples che trovate all&#8217;interno. Il programma, se non viene passato come parametro <a class="read-more" href="https://www.icapito.it/articles/2017/10/15/mycustomstarts-11">[&#8230;]</a>]]></description>
+		</item>
+		<item>
+		<title>Middle Mouse Menu 2.0</title>
+		<link>https://www.icapito.it/articles/2017/02/01/middlemousemenu-20</link>
+		<description><![CDATA[Finalmente dopo tanto tempo ho deciso di pubblicare l&#8217;ultima versione del middle mouse menu. La 2.0 è diciamo una release intermedia, infatti nei piani ci sarebbe l&#8217;ipotesi di creare un menu dinamico diciamo in stile pipe ma di lavoro dietro ce ne è ancora tanto. Questa versione si discosta completamente dal vecchio middle mouse menu, <a class="read-more" href="https://www.icapito.it/articles/2017/02/01/middlemousemenu-20">[&#8230;]</a>]]></description>
+		</item>
+	</channel>
+</rss>

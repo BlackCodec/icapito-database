@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Software</title>
+        <content>
+<![CDATA[
+- [Advanced Copy / Move File Command]({{siteurl}}/pages/software/advancedcopymovefilecommand) (Release: [1.0]({{siteurl}}/articles/2013/10/02/advancedcopymovefilecommand-10) - 02/01/2013)\n
+- [AdvancedRun]({{siteurl}}/pages/software/advancedrun) (Release: [1.2]({{siteurl}}/articles/2018/04/29/advancedrun-12) - 29/04/2018)\n
+- [AntiCicio]({{siteurl}}/pages/software/anticicio) (Release: [2.0]({{siteurl}}/articles/2011/12/17/anticicio-20) - 17/12/2011)\n
+- [Assistenza Remota]({{siteurl}}/pages/software/assistenzaremota) (Release: [1.0]({{siteurl}}/articles/2010/11/15/assistenzaremota-10) - 15/11/2010)\n
+- [Black Crypt Tool]({{siteurl}}/pages/software/blackcrypttool) (Release: [1.0]({{siteurl}}/articles/2013/11/21/blackcrypttool-10) - 21/11/2013)\n
+- [Blocco Popup]({{siteurl}}/pages/software/bloccopopup) (Release: [1.0]({{siteurl}}/articles/2012/05/04/bloccopopup-10) - 04/05/2012)\n
+- [Check DNS]({{siteurl}}/pages/software/checkdns) (Release: [1.1]({{siteurl}}/articles/2013/08/28/checkdns-11) - 28/08/2013)\n
+- [Check DNS Record]({{siteurl}}/pages/software/checkdnsrecord) (Release: [1.0]({{siteurl}}/articles/2013/09/10/checkdnsrecord-10) - 10/09/2013)\n
+- [Check Reverse DNS]({{siteurl}}/pages/software/checkreversedns) (Release: [1.0]({{siteurl}}/articles/2013/09/10/checkreversedns-10) - 10/09/2013)\n
+- [Converti in NTFS]({{siteurl}}/pages/software/convertiinntfs) (Release: [1.0]({{siteurl}}/articles/2010/11/26/convertiinntfs-10) - 26/11/2010)\n
+- [Impostazioni Proxy]({{siteurl}}/pages/software/impostazioniproxy) (Release: [2.0]({{siteurl}}/articles/2012/01/04/impostazioniproxy-20) - 04/01/2012)\n
+- [Isa Filter Builder]({{siteurl}}/pages/software/isafilterbuilder) (Release: [1.0]({{siteurl}}/articles/2010/11/05/isafilterbuilder-10) - 05/11/2010)\n
+- [Large File Reader]({{siteurl}}/pages/software/largefilereader) (Release: [2.0.1]({{siteurl}}/articles/2011/06/04/largefilereader-201) - 04/06/2011)\n
+- [Manage RDP Time]({{siteurl}}/pages/software/managerdptime) (Release: [1.0]({{siteurl}}/articles/2011/07/06/managerdptime-10) - 06/07/2011)\n
+- [Middle Mouse Menu]({{siteurl}}/pages/software/middlemousemenu) (Release: [2.0]({{siteurl}}/articles/2017/02/01/middlemousemenu-20) - 01/02/2017)\n
+- [My Custom Starts]({{siteurl}}/pages/software/mycustomstarts)(Release [1.1]({{siteurl}}/articles/2017/10/15/mycustomstarts-11) - 15/10/2017)\n
+- [My Files Catalog]({{siteurl}}/pages/software/myfilescatalog) (Release: [1.0]({{siteurl}}/articles/2011/05/30/myfilescatalog-10) - 30/05/2011)\n
+- [MySQL Backup DB]({{siteurl}}/pages/software/mysqlbackupdb) (Release: [1.0]({{siteurl}}/articles/2011/06/03/mysqlbackupdb-10) - 03/06/2011)\n
+- [OpenWith]({{siteurl}}/pages/software/openwith) (Release: [1.0.1]({{siteurl}}/articles/2011/07/26/openwith-101) - 26/07/2011)\n
+- [Packard Bell Social]({{siteurl}}/pages/software/packardbellsocial) (Release: [1.1]({{siteurl}}/articles/2012/03/15/packardbellsocial-11) - 15/03/2012)\n
+- [Pinger]({{siteurl}}/pages/software/pinger) (Release: [1.0]({{siteurl}}/articles/2013/01/14/pinger-10) - 14/01/2013)\n
+- [Rubrica Semplice]({{siteurl}}/pages/software/rubricasemplice) (Release: [1.1]({{siteurl}}/articles/2010/10/20/rubricasemplice-11) - 20/10/2010)\n
+- [RunAs Builder]({{siteurl}}/pages/software/runasbuilder) (Release: [1.0]({{siteurl}}/articles/2011/03/10/runasbuilder-10) - 10/03/2011)\n
+- [Test My Site]({{siteurl}}/pages/software/testmysite) (Release: [1.0]({{siteurl}}/articles/2011/07/12/testmysite-10) - 12/07/2011)\n
+- [Windows XP Update fix]({{siteurl}}/pages/software/windowsxpupdatefix) (Release: [1.0]({{siteurl}}/articles/2010/11/26/windowsxpupdatefix-10) - 26/11/2010)\n
+]]>
+        </content>
+    </page>
+</object>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Converti in NTFS</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Semplice tool per convertire le partizioni da FAT32 a NTFS. \n
+\n
+### Download: \n
+[1.0]({{siteurl}}/repository/ConvertiInNTFS.zip)\n
+### Rilasci:\n
+- [1.0]({{siteurl}}/articles/2010/11/26/convertiinntfs-10) - 26/11/2010)\n
+]]>
+        </content>
+    </page>
+</object>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>MySQL Backup DB - v. 1.0</title>
+        <description><![CDATA[
+Eseguire il backup di più database mysql non è mai stato così facile.
+        ]]></description>
+        <content>
+<![CDATA[
+Grazie ancora a Black_Codec per averci concesso di pubblicare questo suo applicativo. \n
+Si tratta infatti di un semplice eseguibile che va a leggere un file di configurazione in 
+formato ini in cui sono presenti i nomi dei profili di cui vogliamo eseguire il backup. \n
+
+![MySQL Backup DB](data:image/jpeg;base64,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
+uGGjMxRVR//9k=)
+\n\n
+
+Per un corretto funzionamento dell’eseguibile è necessaria la presenza di mysql (anche in 
+portable mode) presente sul pc da cui viene lanciato. \n
+
+Nel file di configurazione basta scrivere i profili (quanti se ne vuole) seguendo queste 
+indicazioni: \n
+```
+    [NomeProfilo] <– No spazi!
+    bindir= Directory dove si trovano gli eseguibili mysql
+    eseguibile= è opzionale se non lo indicate ricercherà mysqldump.exe
+    username= username per il database
+    password= password per il datase
+    host= nome del server dove si trova il database
+    database= nome del database (per eseguire tutti i database usate –all-databases)
+    backupdir= Cartella dove andrà scritto il file sql
+```
+\n
+Ad esempio ecco un file conf.ini : \n
+```
+    [MySqlRemoto1]
+    bindir=c:\Web\xampp\mysql\bin
+    eseguibile=mysqldump.exe
+    username=utentemysqlremoto1
+    password=lapasswordultrasegreta
+    host=server.remoto.1.it
+    database=test
+    backupdir=E:\backupdb\Remoto
+
+    [MySqlLocale1]
+    bindir=c:\Web\xampp\mysql\bin
+    username=pincopallo
+    password=pallopinco
+    host=localhost
+    database=–all-databases
+    backupdir=E:\backupdb\Locale
+```
+\n
+Per eseguire il backup non dovrete far altro che lanciare il programma utilizzando come 
+parametri i nomi dei profili, ad esempio: \n
+```
+    MySQLBackupDb.exe MySqlRemoto1
+```
+\n
+Per eseguire il backup usando il profilo MySqlRemoto1, oppure per eseguire più profili 
+basta separarli da uno spazio: \n
+```
+    MySQLBackupDb.exe MySqlRemoto1 MySqlLocale1
+```
+\n
+Per eseguire il backup di tutti i profili esiste lo switch –all: \n
+```
+    MySQLBackupDb.exe –all
+```
+\n
+Per testare il corretto funzionamento di tutti i profili basta utilizzare lo switch –debug 
+che informerà l’utente sul corretto funzionamento del programma indicando le problematiche 
+riscontrate: \n
+```
+    MySQLBackupDb.exe –debug
+```
+\n
+Messaggi di errore e loro significato (solo se utilizzato lo switch –debug) \n
+\n
+1) Profilo completato correttamente. <– Tutto ok ha scritto un file con qualche Kb all’interno \n
+2) Il profilo è stato processato tuttavia il file risultante sembra vuoto. <– Controllate i 
+parametri di configurazione e assicuratevi che l’utente abbia i diritti corretti sul server che 
+ospita il database \n
+3) Impossibile processare il profilo per mancanza di parametri. <– Verificate che i campi 
+bindir,username,password,host e database siano corretti \n
+
+\n
+Potete scaricarlo dalla nostra sezione [download]({{siteurl}}/pages/software/mysqlbackupdb).
+]]>
+        </content>
+        <tag>mysql,backup,portable,software,windows</tag>
+        <category>Download,Software,Windows</category>
+    </article>
+</object>
+
+

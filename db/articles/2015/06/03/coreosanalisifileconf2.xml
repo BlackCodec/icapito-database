@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>CoreOS – analisi file di configurazione (Parte 2)</title>
+        <description><![CDATA[
+Oggi siamo di nuovo qui a parlare del file di configurazione di CoreOS cercando di analizzare 
+quanto più nel dettaglio i campi **write_files** e **manage_etc_hosts**.
+]]></description>
+        <content>
+<![CDATA[
+Partiamo proprio da quest’ultimo parametro che ci consente fondamentalmente di 
+modificare il contenuto del file /etc/hosts. \n
+Allo stato attuale l’unico valore supportato è "localhost" che consente al 
+sistema di risolvere se stesso come 127.0.0.1 quando punta su tale hostname, 
+utile nel caso non si abbia a disposizione un server dns per gestire i nomi. 
+Eventuali altre modifiche purtroppo dovranno esser fatte a mano. \n
+
+Mentre write_files contiene una serie di direttive e chiavi che consentono di 
+definire i file da creare nel sistema e con quali permessi, può essere usato 
+più volte specificando ogni volta i parametri necessari, partirei subito con un 
+esempio e poi approfondiamo i vari parametri. \n
+```
+    write_files:
+    – path: /etc/resolv.conf
+    permissions: 0644
+    owner: root
+    content: |
+    nameserver 8.8.8.8
+    – path: /tmp/messaggio
+    permissions: 0775
+    owner: blackcodec:users
+    encoding: base64
+    content: |
+    QmxhY2tfQ29kZWMgYXQgVW5kZVJBVHJhaU4uaXQK
+```
+\n
+Come vede anche nell’esempio utilizzo più volte i parametri dopo aver specificato 
+il file dove andranno scritti (**path**), eventuali permessi sul file (**permissions**, 
+che di default ha valore 0644) e il proprieterio (**owner** nella forma <user>:<group>). \n
+
+&Egrave; possibile scrivere nel file utilizzando un contenuto criptato mediante il 
+parametro **encoding** e specificando il tipo di criptazione, i valori accettati sono 
+b64 o base64, gz o gzip ma questo valore va utilizzato solo con il tag !!binary, 
+gz+b64 o gz+base64 o gzip+b64 o gzip+base64 per crittografare tramite base 64 un 
+contenuto gzip. \n
+
+E infine ricordiamoci di specificare il contenuto (**content**) che potrà esser 
+eventualmente binario (col tag !!binary di prima) oppure testo semplice, da notare 
+che dobbiamo sempre e comunque dichiarare il tipo di contenuto prima, nel caso di 
+testo semplice il tipo è vuoto ed ecco il perché del pipe ( | ) prima del testo, 
+riporto due esempi: \n
+```
+    content: |
+    nameserver 8.8.8.8
+```
+\n
+oppure nel caso di contenuto binario: \n
+```
+    content: !!binary |
+    H4sIAKgdh1QAAwtITM5WyK1US…
+```
+E anche per oggi è tutto a presto con un altro approfondimento del file di 
+configurazione di CoreOS.
+]]>
+        </content>
+        <tag>container,coreos,docker,guida,linux,virtualizzazione</tag>
+        <category>Guide,Linux</category>
+    </article>
+</object>
+
+

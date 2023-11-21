@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>My Files Catalog</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Semplice applicativo che indicizza i files in una cartella. \n
+\n
+### Download: \n
+[1.0]({{siteurl}}/repository/MyFilesCatalog%201.0.zip)\n
+### Rilasci:\n
+- [1.0]({{siteurl}}/articles/2011/05/30/myfilescatalog-10) - 03/06/2011 \n
+]]>
+        </content>
+    </page>
+</object>

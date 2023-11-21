@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Check DNS</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Un’utile interfaccia grafica per verificare i record dns. \n
+\n
+### Download: \n
+[1.1]({{siteurl}}/repository/checkdns11.zip)\n
+### Rilasci:\n
+- [1.1]({{siteurl}}/articles/2013/08/28/checkdns-11) - 28/08/2013 \n
+]]>
+        </content>
+    </page>
+</object>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>AntiCicio</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Semplice applicativo per bloccare il mouse e la tastiera con un codice o una password. \n
+\n
+### Download: \n
+[2.0]({{siteurl}}/repository/AntiCicio.zip)\n
+### Rilasci:\n
+- [2.0]({{siteurl}}/articles/2011/12/17/anticicio-20) - 17/12/2011 \n
+]]>
+        </content>
+    </page>
+</object>

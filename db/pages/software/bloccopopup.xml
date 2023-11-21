@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>Blocco Popup</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Piccolo applicativo che verifica la presenza del blocco popup e permette di disattivarlo o attivarlo. \n
+\n
+### Download: \n
+[1.0]({{siteurl}}/repository/bloccopopup.zip)\n
+### Rilasci:\n
+- [1.0]({{siteurl}}/articles/2012/05/04/bloccopopup-10) - 04/05/2012 \n
+]]>
+        </content>
+    </page>
+</object>

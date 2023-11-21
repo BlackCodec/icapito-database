@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>AdvancedRun 1.0</title>
+        <description><![CDATA[
+Dopo parecchio tempo finalmente torno a scrivere sul blog.\n
+Colgo questa occasione per annunciare l’esistenza di AdvancedRun.
+        ]]></description>
+        <content>
+            <![CDATA[
+Questo applicativo consente di associare degli alias a dei comandi comuni e di eseguirli.\n
+Il tutto si configura attraverso un unico file di configurazione all’interno della directory dell’eseguibile, tale file contiene una riga per ogni alias da creare.\n
+Ogni riga è composta con la sintassi:\n
+```
+    alias;eseguibile_da_avviare;working_directory;window_mode
+```
+ad esempio:\n
+```
+    nuovoscript; notepad.exe NuovoFile.ahk;C:\Develop\BLKG;Max
+```
+Il comando precedente avvierà notepad indicandogli di aprire il file NuovoFile.ahk se esiste oppure verrà richiesto di crearlo.\n
+Come possono essere eseguiti questi comandi? Semplicemente cliccando la combinazione di tasti Alt+F2 verrà mostrata una barra dove è possibile digitare il comando da eseguire seguito dal tasti “Invio” oppure premere il tasto “Esc” per annullare.\n
+Se tra gli alias il comando non è definito, l’applicativo proverà ad eseguire, quindi ad esempio è possibile eseguire il prompt dei comandi dos semplicemente digitando cmd.exe.\n
+Esistono inoltre dei comandi interni, delimitati dalla chiocciola (@) che consentono di:\n
+```
+    Spengere il sistema (@poweroff@ o @poweroff.force@)
+    Riavviare il sistema (@reboot@ o @reboot.force@)
+    Eseguire il logout (@logout@ o @logoff@)
+    Modificare l’elenco degli alias (@alias@ o @edit@)
+    Mostrare la finestra di informazioni (@about@)
+    Terminare l’applicativo (@exit@)
+```
+<s>Come di consueto vi rimando al download.</s>\nDownload rimosso, vedere [rilascio 1.2]({{siteurl}}/articles/2018/04/29/advancedrun-12).
+            ]]>
+        </content>
+        <tag>hotkey,portable,software,windows</tag>
+        <category>Download,Software,Windows</category>
+    </article>
+</object>
+
+

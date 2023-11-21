@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>page</type>
+    <page>
+        <title>RunAs Builder</title>
+        <content>
+<![CDATA[
+### Descrizione: \n
+Gui per creare avviatori di applicazioni in modalità esegui come altro utente.\n
+\n
+### Download: \n
+[1.1]({{siteurl}}/repository/RunAsBuilder%20Portable.zip)\n
+### Rilasci:\n
+- [1.0]({{siteurl}}/articles/2011/03/10/runasbuilder-10) - 10/03/2011)\n
+]]>
+        </content>
+    </page>
+</object>

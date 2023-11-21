@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>My Custom Starts 1.1</title>
+        <description><![CDATA[
+Ecco a voi un piccolo eseguibile che ha un semplice scopo, avviare dei programmi con dei parametri ben precisi.
+        ]]></description>
+        <content>
+            <![CDATA[
+l tutto è comandato da un semplice file di configurazione dove ogni riga indica un programma e la cui sintassi è esplicitata nel file examples che trovate all’interno.\n
+Il programma, se non viene passato come parametro all’avvio nessun file, cerherà un file chiamato services.lst all’interno della sua stessa cartella.\n
+Nel caso in cui il file non venga trovato verrà mostrato un messaggio di errore.\n
+\n
+Ma vediamo ora come compilare il file di configurazione.\n
+Innanzittuto dovremo utilizzare una riga per ogni applicativo da avviare, i parametri che potremo indicare sono i seguenti:\n
+```
+    Name;NeedConfirm;WaitConfirm;DefaultAnswer;WaitTheEnd;WaitNextCommand;WinMode;ExeCommand;ExePath
+```
+ogni parametro nella riga è separato da un punto e virgola (;), andiamo ad analizzarli uno per uno.\n
+\n
+**Name**: Contiene il nome da visualizzare nelle finestre di dialogo e tooltip, questo è un parametro obbligatorio\n
+**NeedConfirm**: se impostato a 1 indica se è necessario mostrare una finestra di richiesta conferma per eseguire il programma oppure no (valore impostato a 0, zero). Per impostazione predefinita questo valore è uguale a 1 se non diversamente specificato.\n
+**WaitConfirm**: Indica i secondi di attesa prima di utilizzare la risposta di default nel caso sia stata impostata l’opzione di visualizzazione conferma (NeedConfirm=1). Per impostazione predefinita questo valore è uguale a 3 secondi, se impostato a 0 (zero) indica che non verrà proseguita nessuna attività senza aver risposto alla finestra di dialogo.\n
+**DefaultAnswer**: Imposta la risposta di default nella finestra di dialogo ed equivale all’azione predefinita che verrà eseguita al termine del conteggio (nel caso in cui WaitConfirm sia diverso da 0, zero). 1 corrisponde a “Start” ovvero esegui il comando, 0 (zero) a “Skip” ovvero non eseguire il comando. Per impostazione predefinita questo valore è pari a 1.\n
+**WaitTheEnd**: Questo parametro indica se prima di eseguire il comando successivo è necessario che questo comando sia terminato (1) oppure no (0, zero). Attenzione alcuni eseguibili richiedono la loro chiusura, nel senso di termine dell’eseguibile stesso, per rilasciare il segnale di uscita quindi utilizzate il valore con attenzione. Per impostazione predefinita questo valore è pari a 0 (zero).\n
+**WaitNextCommand**: Indica quanti secondi attendere prima di eseguire il comando (riga) successivo.\n
+**WinMode**: Indica in che modo dovrà essere mostrata la finestra se normale (vuoto, nessun valore) oppure minimizzata (Min), o massimizzata (Max) oppure nascosta (Hide). Per impostazione predefinita questo valore è vuoto, quindi l’applicazioni vengono eseguite seguendo le indicazioni del sistema operativo o dell’applicazione stessa.\n
+**ExeCommand**: Applicazione o eseguibile da avviare, questo parametro è obbligatorio.\n
+**ExePath**: Cartella di avvio del programma, se specificata indica al programma la cartella da cui deve essere lanciato altrimenti se lasciato non valorizzato (attenzione non vuoto ma semplicemente non valorizzato) viene calcolato in base al valore di ExeCommand e impostato alla sua cartella. Se diversamente viene impostato a vuoto verrà utilizzato il valore della cartella da cui è stato lanciato MyCustomStarts.exe\n
+\n
+Quindi ad esempio per avviare la mia applicazione esempio dal path C:\Temp mostrando una finestra di conferma che mostra un avviso per 3 secondi altrimenti lo avvia:\n
+```
+    My application name;1;3;1;0;2;;D:\MyApp\Esempio.exe;C:\Temp
+```
+\n
+Se invece avessi voluto avviarla senza mostrare la finestra di conferma e usando il path stesso dell’eseguibile:\n
+```
+    My application name;0;1;1;1;2;;D:\MyApp\Esempio.exe
+```
+In questo caso potevo anche utilizzare la sintassi breve:\n
+```
+    My application name;0;D:\MyApp\Esempio.exe
+```
+\n
+La sintassi breve prevede la seguente forma:\n
+```
+    Name;[NeedConfirm;]ExeCommand[;ExePath]
+```
+Come si vede subito NeedConfirm and ExePath sono opzionali, se non specificati si utilizzano quelli predefiniti.\n
+\n
+Bene credo sia tutto, spero ritorni utile a qualcuno, vi lascio con il link al [download]({{siteurl}}/pages/software/mycustomstarts).
+        ]]>
+        </content>
+        <tag>hotkey,portable,software,windows</tag>
+        <category>Download,Software,Windows</category>
+    </article>
+</object>
+
+

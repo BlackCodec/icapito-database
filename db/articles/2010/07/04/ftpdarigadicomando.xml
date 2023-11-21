@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object>
+    <type>article</type>
+    <article>
+        <title>FTP da riga di comando</title>
+        <description><![CDATA[
+Come utilizzare il protocollo ftp da riga di comando.
+        ]]></description>
+        <content>
+<![CDATA[
+Qualsiasi versione di Windows integra un client ftp, altrimenti come sarebbe possibile accedere a 
+un indirizzo ftp da explorer? Tuttavia a volte non è necessario utilizzare explorer o altri tool quali WinScp, etc.\n
+&Egrave; infatti possibile connettersi a un server ftp direttamente dal prompt dei comandi (Start -> Esegui -> cmd) 
+digitando questa semplice istruzione:\n
+```
+    ftp indirizzo_del_server_ftp
+```
+dove al posto di andremo a mettere quello che ci interessa, ad esempio: underatrain.altervista.org \n
+A questo punto ci verrà chiesto nome utente e password (nel caso di ftp pubblici il nome utente è "anonymous" e 
+la password è vuota oppure l'indirizzo e-mail. Una volta entrati sarà possibile utilizzare i comandi: \n
+\n
+- **dir**: elenca il contenuto della cartella \n
+- **cd nome_cartella**: accede alla cartella nome_cartella \n
+- **cdup**: torna su di una cartella \n
+- **pwd**: visualizza il percorso completo della cartella in cui ci si trova \n
+- **lcd**: indica la cartella nella quale vengono salvati i file sul nostro computer \n
+- **lcd percorso_nuova_cartella**: imposta la cartella nella quale verranno salvati i file sul nostro computer \n
+- **delete nome_file**: elimina il file specificato (nome_file) \n
+- **get nome_file**: scaricare il file specificato (nome_file) \n
+- **put nome_file**: spedisce il file specificato (nome_file) al server \n
+- **quit**: chiude la sessione ftp. \n
+]]>
+        </content>
+        <tag>ftp,guida,windows</tag>
+        <category>Guide,Windows</category>
+    </article>
+</object>
+
+
