@@ -1,4 +1,0 @@
-#!/bin/bash
-echo "Yes"
-tree /
-exit 0
