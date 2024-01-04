@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo code
-      - uses: actions/checkout@v3
-
-      - name: Generate a new site map
-        run: script/sitemap.sh 
+        uses: actions/checkout@v3
+      - shell: bash
+        name: Generate a new site map
+        run: ${{ github.action_path }}/script/sitemap.sh 
