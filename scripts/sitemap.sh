@@ -19,4 +19,5 @@ for curr_file in $(find . -type f); do
   echo "</url>" >> sitemap.xml
 done
 echo "</urlset>" >> sitemap.xml
+cat sitemap.xml
 exit 0
