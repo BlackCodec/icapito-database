@@ -16,5 +16,5 @@ jobs:
       - shell: bash
         name: Generate a new site map
         run: |
-          ls -1 /home/runner/
+          ls -1 /home/runner/work/icapito-database/db/
           exit 0
