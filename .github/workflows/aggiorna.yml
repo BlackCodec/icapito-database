@@ -16,5 +16,5 @@ jobs:
       - shell: bash
         name: Generate a new site map
         run: |
-          ls -1 /home/
+          ls -1 /home/runner/
           exit 0
