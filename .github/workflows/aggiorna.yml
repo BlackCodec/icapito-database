@@ -21,6 +21,10 @@ jobs:
           chmod +x /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
           /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
           git config --local user.name "githubaction"
-          git add ./docs
-    git commit -m "Updating the repository GitHub html pages in the docs folder"
+          git add ./db/
+          git commit -m "Update sitemap"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push
           exit 0
+        env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
