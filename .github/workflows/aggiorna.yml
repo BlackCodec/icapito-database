@@ -6,7 +6,7 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - 'icapito-database/scripts/update.txt'
+      - 'scripts/update.txt'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 jobs:
