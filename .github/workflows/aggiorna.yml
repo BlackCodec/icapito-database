@@ -16,5 +16,6 @@ jobs:
       - shell: bash
         name: Generate a new site map
         run: |
-          tree /home/runner/work/icapito-database/
+          chmod +x /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
+          /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
           exit 0
