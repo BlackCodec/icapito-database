@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello world"
-tree db/
+ls db/
 exit 0
