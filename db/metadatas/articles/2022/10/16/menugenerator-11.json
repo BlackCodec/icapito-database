@@ -1,0 +1,9 @@
+{
+    "content": "Nella versione 1.1 è stato aggiunta la possibilità di salvare la configurazione su un file e la possibilità di avviare il programma con parametri diversi.\n\nNella versione 1.0 era stato aggiunto il supporto per la conversione delle icone da svg a png necessario per FluxBox.\n\n###Repository:\n\n[Github repository](${github_url}/jwm-scripts)",
+    "description": "Semplice script per la generazione dei menu in FluxBox, OpenBox e JWM.",
+    "template": "article",
+    "title": "MenuGenerator - 1.1",
+    "type": "markdown"
+}
+
+

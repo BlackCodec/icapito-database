@@ -1,0 +1,7 @@
+{
+    "content": "${file:jwmappmenugen-081.txt}",
+    "description": "Perl script che genera un menu delle applicazioni compatibile con jwm.",
+    "template": "article",
+    "title": "JWM Application Menu Generator - 0.8.1",
+    "type": "markdown"
+}

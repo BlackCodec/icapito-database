@@ -1,0 +1,152 @@
+#search-form {
+ display: flex;
+}
+
+#search-text {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 8px;
+  min-width: 30%;
+}
+
+#search-btn {
+  background-color: #4171f2;
+  color: white;
+  padding: 8px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 10%;
+}
+
+#about {
+ padding-top:10px;
+}
+
+#about-text {
+ border: solid 1px #6e6f70;
+ border-radius: 4px;
+ padding: 10px;
+ text-align:center;
+}
+
+p.me {
+ font-weight: bold;
+}
+
+a.github, a.linkedn {
+ text-decoration:none;
+}
+
+#destra {
+  float: left;
+  height: 100%;
+  width: 100%;
+  min-width: 120px;
+  max-width: 300px;
+  padding-top: 10px;
+  padding-right: 30px;
+}
+
+ul.menu {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ border: solid 1px #6e6f70;
+ border-radius: 4px;
+}
+
+li.menu-elem {
+ margin: 10px;
+}
+
+a.menu-elem {
+ text-decoration: none;
+ color: black;
+ font-weight:bold;
+ text-align: right;
+ display:block;
+}
+
+
+#content-text {
+ padding: 20px;
+}
+
+#content-title {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 20px;
+}
+
+#content {
+ align-content: center;
+ display: grid;
+ text-align: justify;
+ background-color: white;
+ border: solid 1px white;
+ border-radius: 5px;
+ margin-top: 10px;
+}
+
+#container {
+ margin: 10px;
+}
+
+body {
+ background-color: #e6e6e6;
+}
+
+code {
+ overflow-wrap:break-word;
+ word-break: break-word;
+ white-space: normal;
+}
+
+#footer {
+  text-align: center;
+  font-size: xx-small;
+  float:right;
+}
+
+a {
+  text-decoration:none;
+  color: black;
+  font-weight: bold;
+}
+
+a:hover {
+  color:white;
+  background-color: black;
+  border: solid 1px black;
+  border-radius: 4px;
+  padding: 0px 10px;
+}
+
+.smalltext {
+  text-align: left;
+  font-size: small;
+}
+
+#links {
+  margin-top:10px;
+}
+
+.nodeco {
+  text-decoration: none;
+  color:black;
+}
+
+.nodeco:hover {
+  color: black !important;
+  background-color: inherit !important;
+  padding:0px !important;
+  border:0px !important;
+}
+
+img {
+  max-width: 100%;
+}

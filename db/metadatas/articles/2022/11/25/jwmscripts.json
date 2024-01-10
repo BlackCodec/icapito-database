@@ -1,0 +1,9 @@
+{
+    "content": "Inserito menu/dynamic-folder-shell.sh, uno script che crea un menu dinamico di una cartella.\n###Repository:\n\n[Github repository](${github_url}/jwm-scripts)",
+    "description": "Raccolta di alcuni script per [JWM](https://joewing.net/projects/jwm/).",
+    "template": "article",
+    "title": "KDE Script - Hide titles",
+    "type": "markdown"
+}
+
+

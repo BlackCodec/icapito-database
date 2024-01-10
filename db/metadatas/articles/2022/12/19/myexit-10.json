@@ -1,0 +1,7 @@
+{
+    "content": "${file:myexit-10.txt}",
+    "description": "Un semplice script zenity che mostra alcune opzioni ed esegue l'azione indicata, utile per spengere riavviare o terminare la sessione ad esempio",
+    "template": "article",
+    "title": "MyExit - 1.0",
+    "type": "markdown"
+}

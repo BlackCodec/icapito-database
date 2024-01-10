@@ -1,0 +1,6 @@
+{
+    "content": "Un semplice script zenity che mostra alcune opzioni ed esegue l'azione indicata, utile per spengere riavviare o terminare la sessione ad esempio.\n\n###Download:\n[Repository](${github_url}/myexit)\n\n###Rilasci:\n - [1.0](${site_url}/articles/2022/12/19/myexit-10) - 19/12/2022",    
+    "template": "page",
+    "title": "MyExit",
+    "type": "markdown"
+}

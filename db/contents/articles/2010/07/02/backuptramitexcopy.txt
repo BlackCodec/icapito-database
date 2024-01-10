@@ -1,0 +1,19 @@
+Ecco che così un giorno imbattendomi in problematiche relative a più rinomati software di backup 
+che non riuscendo ad avviare l'agent asserivano che il backup era riuscito correttamente ma la 
+dimensione di tale backup era di circa 12/13 kb ... Così sono tornato al buono e caro XCopy che non 
+delude mai (o quasi) e ho voluto scrivere una guida relativa agli switch: \n
+\n
+- **/c** continua la copia dei file e delle cartelle anche qualora dovesse verificarsi un errore. 
+Nel caso in cui risultasse impossibile copiare un file, per un qualsiasi motivo, la procedura di copia 
+degli altri elementi non verrà interrotta. \n
+- **/d** richiede di copiare solamente i file modificati dopo una certa data. Dal momento che, in questo caso, 
+non viene specificata alcuna data, XCOPY provvede a copiare solo i file la cui data di creazione risulta posteriore 
+a quella del file omonimo eventualmente contenuto nella cartella di destinazione. \n
+- **/e** permette di copiare tutte le cartelle, comprese le sottocartelle eventualmente presenti. Utilizzando, 
+in alternativa, l’opzione /s, XCOPY copierà esclusivamente le cartelle non vuote. \n
+- **/h** copia anche file nascosti e file di sistema. \n
+- **/i** se la destinazione non esiste e la copia riguarda più file, verrà presupposto che la destinazione sia una directory. \n
+- **/r** provvede a sovrascrivere anche gli eventuali file dotati dell'attributo di sola lettura. \n
+- **/y** evita che lo script chieda conferma ad ogni eventuale operazione di sovrascrittura dei file, dalla cartella sorgente a quella di destinazione. \n
+\n
+Vi ricordo che gli switch devono essere ordinati rigorosamente in ordine alfabetico!

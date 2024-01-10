@@ -1,0 +1,7 @@
+### Descrizione: \n
+Gui per creare avviatori di applicazioni in modalità esegui come altro utente.\n
+\n
+### Download: \n
+[1.1](${site_url}/repository/RunAsBuilder%20Portable.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2011/03/10/runasbuilder-10) - 10/03/2011)\n

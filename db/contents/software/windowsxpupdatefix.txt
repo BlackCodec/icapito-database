@@ -1,0 +1,7 @@
+### Descrizione: \n
+Tool che esegue le più comuni azioni per ripristinare il corretto funzionamento degli aggiornamenti di Windows XP. \n
+\n
+### Download: \n
+[1.0](${site_url}/repository/WindowsXPUpdateFix.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2010/11/26/windowsxpupdatefix-10) - 26/11/2010)\n

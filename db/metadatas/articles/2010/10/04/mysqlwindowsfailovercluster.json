@@ -1,0 +1,1 @@
+{"content":"${file:mysqlwindowsfailovercluster.txt}","description":"Come installare MySql affinché funzioni su un cluster in failover di Windows Server 2008R2.","template":"article","title":"MySql come servizio di un Failover Cluster Windows 2008 R2","type":"markdown"}

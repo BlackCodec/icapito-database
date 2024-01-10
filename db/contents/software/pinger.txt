@@ -1,0 +1,7 @@
+### Descrizione: \n
+Gui per il tool da riga di comando ping.\n
+\n
+### Download: \n
+[1.0](${site_url}/repository/pinger.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2013/01/14/pinger-10) - 14/01/2013 \n

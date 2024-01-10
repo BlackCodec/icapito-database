@@ -1,0 +1,37 @@
+Questo applicativo consente di associare degli alias a dei comandi comuni e di eseguirli.\n
+Il tutto si configura attraverso un unico file di configurazione (alias.conf) all’interno della directory dell’eseguibile, tale file contiene una riga per ogni alias da creare.\n
+Ogni riga è composta con la sintassi:\n
+```
+    alias1[|alias2[|...[|aliasN]]];eseguibile_da_avviare;[[working_directory][;window_mode]
+```
+ad esempio:\n
+```
+    notepad|editor; notepad.exe;C:\Develop\BLKG;Max
+```
+Il comando precedente avvierà notepad, ma adesso potremo digitare notepad oppure editor per avviarlo. Inoltre sarà possibile passare dei parametri quindi ad esempio digitare editor nuovofile.txt per far si che venga aperto nel caso esista il file C:\Develop\BLKG\nuovofile.txt oppure chiederà di crearlo.\n\n
+Rispetto alla precedente versione è stata aggiunta la possibilità di configurare alcuni parametri dell’applicativo ad esempio:\n
+conf.debug: indica il numero di secondi di timeout prima che i messaggi di debug vengano nascosti (verrà visualizzato un box con il messaggio), impostando questo valore a 0 (zero) viene disattivata questa funzionalità.\n
+conf.key: consente di definire l’hotkey che mostrerà la finestra di esecuzione, è possibile utilizzare AltGr, Alt, Ctrl, Shift, Win, F1 … F12 e uno spazio per separare ognuno dei bottoni desiderati, ad esempio per ottenere il comportamento di default (viene mostrato con Alt+F2) basta impostare il valore a Alt F2.\n
+conf.tray: 0 (zero) nasconde, 1 (uno) mostra un’icona nella system tray, l’icona offre anche un menu da cui accedere alle funzioni più comuni.\n
+conf.lineseparator: indica il carattere separatore a livello di linea ovvero quello che normalmente separa alias da eseguibile, da working dir e da win mode\n
+conf.aliasseparator: come per il separatore di linea ma per gli alias. Rispetto alla precedente versione è possibile utilizzare più di un alias per lo stesso comando, ad esempio notepad|editor.\n
+Attenzione i due separatori non devono essere uguali pena l’incapacità da parte dell’applicativo di discernere tra uno e l’altro.\n\n
+Di seguito i valori di default settati nel programma:\n
+```
+    {conf.debug:0}\n
+    {conf.key:Alt F2}\n
+    {conf.tray:1}\n
+    {conf.lineseparator:;}\n
+    {conf.aliasseparator:|}\n
+```
+Esistono inoltre dei comandi interni, delimitati dalla chiocciola (@) che consentono di:\n
+```
+    Spengere il sistema (@poweroff@ o @poweroff.force@)\n
+    Riavviare il sistema (@reboot@ o @reboot.force@)\n
+    Eseguire il logout (@logout@ o @logoff@)\n
+    Modificare l’elenco degli alias (@alias@ o @edit@)\n
+    Mostrare la finestra di informazioni (@about@)\n
+    Terminare l’applicativo (@exit@)\n
+```
+Oltre ai suddetti comandi sono stati aggiunti i due alias di sistema @update@ e @reload@ che consentono di ricaricare la configurazione nel file alias.conf.\n
+<s>Come di consueto vi rimando al download.</s>\nDownload rimosso, vedere [rilascio 1.2](${site_url}/articles/2018/04/29/advancedrun-12).

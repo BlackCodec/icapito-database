@@ -1,0 +1,6 @@
+{
+    "content": "Una semplice libreria java che implementa un client rest in meno di 200 righe di codice.\n\nPer utilizzarla basta create un nuovo oggetto HttpRequest col methodo RestClient.createRequest() e impostare url, metodo (GET, POST, ...), headers etc.\n\nUna volta completata la configurazione dell'oggetto HttpRequest è possibile eseguire la chiamata rest mediante il metodo invoke().\n\n&Egrave; possibile disabilitare la verifica del certificato mediante il methodo disableCertificateValidation() della classe HttpRequest.\n\nPer un esempio di utilizzo della libreria potete far riferimento al file Example.java.\n\n###Download \n\n[Repository](${github_url}/java-RestClient)\n\n###Rilasci\n\n[20230426.1100](${site_url}/articles/2023/04/26/java-restclient) - 26/04/2023",
+    "template": "page",
+    "title": "Java - RestClient",
+    "type": "markdown"
+}

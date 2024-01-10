@@ -1,0 +1,6 @@
+{
+    "content": "Javascript blog engine su cui gira iCapito.it\n\n###Download:\n[Repository](${github_url}/uat-javascript-blog)\n\n###Rilasci:\n - [1.1](${site_url}/articles/2022/09/14/uat-javascript-blog-11) - 14/09/2022",
+    "template": "page",
+    "title": "UnderATrain javascript blog engine",
+    "type": "markdown"
+}

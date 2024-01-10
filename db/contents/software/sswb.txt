@@ -1,0 +1,40 @@
+### Utilizzo:
+
+Lanciare il programma sswb passando come parametro l'url da aprire ad esempio:
+
+```sswb https://www.icapito.it```
+
+&Egrave; possibile definire le opzioni nel file $\{HOME\}/.config/sswb/options.json
+
+Di default il programma utilizza le seguenti opzioni:
+
+<pre>
+{
+    "home": "http://www.icapito.it",
+    "resolution": "800x600",
+    "search": "https://www.google.it/search?q=%text%",
+    "cookies": "/home/black/.config/sswb/cookies.txt",
+    "mimes": [
+        "text/*",
+        "image/*",
+        "video/*",
+        "application/ogg"
+    ],
+    "bookmarks": [
+        {
+            "name": "iCapito.it",
+            "url": "https://www.icapito.it"
+        }
+    ]
+}
+</pre>
+
+###Download:
+
+[Repository](${github_url}/sswb)
+
+[220612.1](${github_url}/sswb/releases/tag/220612.1)
+
+###Rilasci:
+
+[220612.1](${site_url}/articles/2022/06/12/sswb) - 12/06/20222

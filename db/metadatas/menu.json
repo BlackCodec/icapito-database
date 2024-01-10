@@ -1,0 +1,4 @@
+{
+  "type": "raw",
+  "content": "${fqdn:menu.txt}"
+}

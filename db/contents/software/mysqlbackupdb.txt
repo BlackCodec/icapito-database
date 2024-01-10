@@ -1,0 +1,7 @@
+### Descrizione: \n
+Semplice applicativo che si occupa di creare backup dei database in formato sql. \n
+\n
+### Download: \n
+[1.0](${site_url}/repository/MySQLBackupDB10.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2011/06/03/mysqlbackupdb-10) - 03/06/2011 \n

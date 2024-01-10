@@ -1,0 +1,7 @@
+### Descrizione: \n
+Un’utile interfaccia grafica per verificare i record dns. \n
+\n
+### Download: \n
+[1.1](${site_url}/repository/checkdns11.zip)\n
+### Rilasci:\n
+- [1.1](${site_url}/articles/2013/08/28/checkdns-11) - 28/08/2013 \n

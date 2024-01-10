@@ -1,0 +1,30 @@
+###Descrizione:
+
+Python script che è in grado di generare i menu (grazie alle specifiche di xdg-menu) per i seguenti window manager:
+
+ - fluxbox
+ - openbox
+ - jwm
+
+Il programma accetta i seguenti parametri:
+
+ - -h , --help: mostra il messaggio di aiuto
+ - -v , --version: stampa la versione e esce
+ - -d , --dumpconfig: stampa la configurazione che verrà utilizzata per generare il menu
+ - -g , --generate: genera il menu con le opzioni di default
+ - -i , --icon: utilizza il pacchetto icone specificato
+ - -c , --clear: svuota la cache delle icone (questa opzione viene utilizzata solamente per il wm FluxBox per convertire le immagini svg in png)
+ - -p , --pipe: stampa il menu nello standard output
+ - -w <windowmanager> , --wm=<windowmanager>: genera il menu per il window manager specificato
+
+I valori supportati per __windowmanager__ sono:
+ - fluxbox: per il wm FluxBox
+ - jwm: per il wm JWM
+ - openbox: per il wm Openbox
+
+###Download:
+[Repository](${github_url}/MenuGenerator)
+
+
+### Rilasci:
+- [1.1](${site_url}/articles/2022/10/16/menugenerator-11) - 16/10/2022 \n

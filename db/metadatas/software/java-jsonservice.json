@@ -1,0 +1,6 @@
+{
+    "content": "Una semplice libreria per la gestione degli oggetti json in java in meno di 400 righe (senza contare i commenti).\n\nIl parser legge la stringa inviata come input nel seguente ordine:\n\n - Numeri\n - Booleani\n - Valori nulli (null)\n - Stringhe\n - Stringhe con gli escape\n - Array Json\n - Oggetti Json\n\nIl methodo parse restituisce sempre un JsonObject, si attende che la stringa inviata come input rappresenti un oggetto json, non è possibile parsare un array json.\n\n###Download:\n[Repository](${github_url}/java-JsonService)\n\n###Rilasci: \n[20230425.1300](${site_url}/articles/2023/04/25/java-jsonservice) - 25/04/2023",
+    "template": "page",
+    "title": "Java - JsonService",
+    "type": "markdown"
+}

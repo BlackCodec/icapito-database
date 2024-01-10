@@ -1,0 +1,12 @@
+Buongiorno e bentrovati signori e signore… ecco a voi oggi un nuovo tool offerto gentilmente 
+dal nostro caro Black_Codec. \n
+Il programma in questione verifica e consente di modificare le impostazioni del proxy. \n
+Funziona su molti domini anche senza diritti amministrativi, infatti modifica direttamente le 
+chiavi del registro (come fanno le gpo). \n
+Nei domini più recente tuttavia c’è la possibilità di inibire tale funzionalità… ma non sto a 
+spiegarvi come.\n
+Tuttavia ci tengo a precisare che un buon amministratore di sistema che imposti il proxy a 
+livello di dominio solitamente inibirà la navigazione senza proxy e l’utilizzo di proxy 
+esterni... comunque tentar non nuoce!\n
+\n
+Potete scaricarlo dalla nostra sezione [download](${site_url}/software/impostazioniproxy).

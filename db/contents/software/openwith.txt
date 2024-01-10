@@ -1,0 +1,7 @@
+### Descrizione: \n
+Semplice applicativo per specificare con quali parametri deve essere aperto un file in base all'estensione. \n
+\n
+### Download: \n
+[1.0.1](${site_url}/repository/OpenWith10.zip)\n
+### Rilasci:\n
+- [1.0.1](${site_url}/articles/2011/07/26/openwith-101) - 26/07/2011 \n

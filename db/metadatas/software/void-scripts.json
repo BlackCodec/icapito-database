@@ -1,0 +1,6 @@
+{
+    "content": "Raccolta di alcuni script utili per VOID Linux.\n\n###Download:\n[Repository](${github_url}/void-scripts)\n\n###Rilasci:\n - [20230125](${site_url}/articles/2023/01/25/void-scripts) - 25/01/2023",
+    "template": "page",
+    "title": "VOID - Scripts",
+    "type": "markdown"
+}

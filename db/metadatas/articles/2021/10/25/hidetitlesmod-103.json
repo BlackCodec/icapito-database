@@ -1,0 +1,7 @@
+{
+    "content": "${file:hidetitlesmod-103.txt}",
+    "description": "Script che nasconde la barra del titolo per le finestre massimizzate in KDE.",
+    "template": "article",
+    "title": "KDE Script - Hide titles",
+    "type": "markdown"
+}

@@ -1,0 +1,7 @@
+### Descrizione: \n
+Un applicativo che ci consente di montare in maniera automatica tutti i volumi criptati creati con TrueCrypt. \n
+\n
+### Download: \n
+[1.0](${site_url}/repository/blackcrypttool10.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2013/11/21/blackcrypttool-10) - 21/11/2013 \n

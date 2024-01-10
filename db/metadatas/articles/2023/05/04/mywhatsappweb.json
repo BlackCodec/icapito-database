@@ -1,0 +1,7 @@
+{
+    "content": "Nella release 20230504.1000 viene mostrato il numero di chat non lette nell'icona dell'area di notifica\n\n###Repository:\n\n[Github repository](${github_url}/mywhatsappweb)",
+    "description": "Wrapper per il sito web di whatsapp scritto in vala.",
+    "template": "article",
+    "title": "MyWhatsAppWeb - 20230504.1000",
+    "type": "markdown"
+}

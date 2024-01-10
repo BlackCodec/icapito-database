@@ -1,0 +1,2 @@
+{"content":"${file:coreosanalisifileconf2.txt}","description":"Oggi siamo di nuovo qui a parlare del file di configurazione di CoreOS cercando di analizzare 
+quanto più nel dettaglio i campi **write_files** e **manage_etc_hosts**.","template":"article","title":"CoreOS – analisi file di configurazione (Parte 2)","type":"markdown"}

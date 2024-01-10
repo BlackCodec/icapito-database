@@ -1,0 +1,7 @@
+### Descrizione: \n
+Test my site è un programma che consente di testare il tempo di risposta di un sito eseguendo n istanze di visualizzazione dello stesso. \n
+\n
+### Download: \n
+[1.0](${site_url}/repository/PortableTestMySite10.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2011/07/12/testmysite-10) - 12/07/2011 \n

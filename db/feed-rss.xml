@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+  <title>iCapito</title>
+  <link>https://www.icapito.it</link>
+  <description>Ex UndeR A TraiN and BlackGroup</description>
+  <lastBuildDate>Wed, 10 Jan 2024 11:17:35 +0100</lastBuildDate>
+  <language>it-IT</language>
+  <item>
+   <title>"Sono ancora qua"</title>
+   <link>http://localhost:8080/articles/2024/01/10/sono-ancora-qua</link>
+   <description>"Come diceva Vasco Rossi, eh già..."</description>
+  </item>  <item>
+   <title>"Anno nuovo"</title>
+   <link>http://localhost:8080/articles/2024/01/05/anno-nuovo</link>
+   <description>"Una piccola storia ..."</description>
+  </item>
+ </channel>
+</rss>

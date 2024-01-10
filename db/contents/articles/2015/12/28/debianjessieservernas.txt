@@ -1,0 +1,6 @@
+1. Per prima cosa iniziamo con l’installazione: [Installazione base](${site_url}/articles/2015/12/27/debianjessieinstallazionebase) \n
+2. Abilitiamo l’accesso ssh a root per questioni di comodità: [Abilitare accesso ssh per root](${site_url}/articles/2015/12/27/debianenablesshroot) \n
+3. Vediamo come creare un lvm nel caso sia necessario: [Creazione lvm](${site_url}/articles/2015/12/27/debianvggrouplvm) \n
+4. Configuriamo il nostro nas per condividere file per pc windows: [Configurazione samba](${site_url}/articles/2015/12/27/debianjessieserversamba) \n
+5. Configuriamo il nostro nas per condividere file per pc linux via nfs: [Configurazione nfs](${site_url}/articles/2015/12/27/debianjessieservernfs) \n
+6. Eventualmente possiamo configurare il nas per condividere file via ftp: [Configurazione ftp](${site_url}/articles/2015/12/27/debianjessieserverftp) \n

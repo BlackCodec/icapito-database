@@ -1,0 +1,8 @@
+### Descrizione: \n
+Un’utile interfaccia grafica per verificare che un record dns abbia la reverse 
+puntata in maniera corretta. \n
+\n
+### Download: \n
+[1.0](${site_url}/repository/checkdnsrecord10.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2013/09/10/checkdnsrecord-10) - 10/09/2013 \n

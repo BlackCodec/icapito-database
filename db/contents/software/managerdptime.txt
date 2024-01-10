@@ -1,0 +1,7 @@
+### Descrizione: \n
+Grazie a questo programma non solo è possibile verificare e impostare le opzioni relative alla durata delle sessioni di desktop remoti ma è possibile anche creare dei veri e propri file esecutivi da far eseguire ad esempio all’avvio o all’accesso dell’utente. \n
+\n
+### Download: \n
+[1.0](${site_url}/repository/ManageRDPTime10.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2011/07/06/managerdptime-10) - 06/07/2011 \n

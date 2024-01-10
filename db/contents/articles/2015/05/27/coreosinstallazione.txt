@@ -1,0 +1,78 @@
+L'installazione base è tanto semplice o complicata quanto lo può essere un'installazione 
+enterprise, questo perché l'installazione e il funzionamento di CoreOS è lo stesso sia 
+come cluster a più nodi sia come cluster a singolo nodo.\n
+Come potete notare ho parlato appositamente sempre di cluster, infatti CoreOS tratta 
+la singola installazione come un cluster a nodo singolo il che rende la successiva 
+espansione e messa in produzione assai semplice considerando che l'unico comando che 
+bisognerà dare è \n
+```
+    coreos-install -d <disco> -c <file di configurazione>
+```
+\n
+quindi ad esempio: \n
+```
+    coreos-install -d /dev/sda -c config.yaml
+```
+\n
+E a questo punto si nota subito che in caso di configurazioni complesse il processo 
+di installazione di un cluster a più nodi è lo stesso di quello a nodo singolo, 
+basterà avere l'accortezza di cambiare dei parametri nel file di configurazione. \n
+Ecco un esempio di un file di configurazione: \n
+```
+    #cloud-config
+    users:
+    – name: blackcodec
+    passwd: <la vostra password criptata>
+    ssh_authorized_keys:
+    – ssh-rsa <la vostra chiave ssh>
+    groups:
+    – sudo
+    – docker
+    coreos:
+    etcd2:
+    name: nodo1
+    max-snapshots: 10
+    snapshot-count: 5000
+    max-wals: 10
+```
+\n
+Questo è il vero minimo sindacale, le opzioni disponibile sono molte andiamo ad 
+analizzarle a una a una. \n
+Innanzitutto il file di configurazione deve sempre iniziale con "#cloud-config" 
+altrimenti verrà generato un errore, il file segue la sintassi yaml (che piaccia o 
+meno). Iniziamo col garantire un eventuale accesso ssh con la direttiva ssh_autorized_keys e 
+possiamo eventualmente definire il nome del nodo (**hostname**), questa è la parte 
+locale dell'fqdn. Altro importante elemento da far notare è che di default coreos 
+non ha impostata alcuna password quindi bisognerà definire da subito eventuali utenti, 
+nell'esempio la sessione **users** dovrà contenere il nome dell'utente (**name**), 
+la password criptata (**passwd**).La password criptata potete ottenerla in vari modi, 
+su debian/ubuntu mediante il comando: \n
+```
+     mkpasswd  –method=SHA-512 –rounds=4096
+```
+\n
+è possibile inoltre utilizzare questo metodo anche su arch linux utilizzando il 
+pacchetto "aur/debian-whois-mkpasswd". In alternativa si può utilizzare il più 
+semplice openssl che consente di utilizzare l'algoritmo di crittogragia md5: \n
+```
+    openssl passwd -l
+```
+\n
+Si possono indicare delle chiavi ssh autorizzate a loggarsi con quell'utenza 
+(**ssh-authorized-keys**), si possono eventualmente importare le chiavi da GitHub 
+per l'utente specificato (**coreos-ssh-import-github**) o per una serie di utenti 
+(**coreos-ssh-import-github-users**) o direttamente le chiavi ottenibili dall'url 
+specificato (**coreos-ssh-import-url**). \n
+Bisognerà inoltre indicare eventuali gruppi linux (**groups**) o specificare il 
+gruppo primario che di default è uguale allo username (**primary-group**), oppure 
+ancora possiamo dirgli di non creare il gruppo di default (ovvero quello uguale 
+allo username creato, **no-user-group**). \n
+Possiamo indicare un commento (**gecos**), oppure indicare il percorso della 
+cartella home (**homedir**) o ancora possiamo dirgli di non crearla 
+(**no-create-home**). Eventualmente possiamo indicare di creare un utente di 
+sistema (tipico per l'utilizzo di demoni o simili, system) in questo caso non 
+verrà creata nessuna cartella home, possiamo anche indicare la shell di login 
+(**shell**) e se vogliamo anche bypassare l'inizializzazione dei database di 
+lastlog e faillog (**no-log-init**). Per oggi direi che può bastare così, 
+a presto con un ulteriore approfondimento del file di configurazione di coreos.
+\n

@@ -1,0 +1,6 @@
+<ul class="menu">
+  <li class="menu-elem"><a id="backtohome" href="${site_url}" class="menu-elem">Home</a></li>
+  <li class="menu-elem"><a href="${site_url}/guide" class="menu-elem">Guide</a></li>
+  <li class="menu-elem"><a href="${site_url}/software" class="menu-elem">Software</a></li>
+  <li class="menu-elem"><a href="${site_url}/feed.xml" class="menu-elem">RSS Feed</a></li>
+ </ul>

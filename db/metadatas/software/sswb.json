@@ -1,0 +1,6 @@
+{
+    "content": "${file:sswb.txt}",
+    "template": "page",
+    "title": "Stupid Simply Web Browser",
+    "type": "markdown"
+}

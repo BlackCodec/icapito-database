@@ -1,0 +1,7 @@
+{
+    "content": "${file:sono-ancora-qua.txt}",
+    "template": "article",
+    "title": "Sono ancora qua",
+    "type": "markdown",
+    "description": "Come diceva Vasco Rossi, eh già..."
+}

@@ -1,0 +1,7 @@
+{
+    "content": "Rilasciato per la prima volta questo piccolo programma in vala per far sembrare siti web come se fossero app locali.\n\n###Repository:\n\n[Github repository](${github_url}/Site2App)",
+    "description": "Vala Webkit wrapper per siti.",
+    "template": "article",
+    "title": "Site2App - 20230503.1800",
+    "type": "markdown"
+}

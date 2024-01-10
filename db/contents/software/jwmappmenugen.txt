@@ -1,0 +1,13 @@
+### Descrizione: 
+
+Un piccolo script in perl che parsa tutti i file desktop presenti nella varie cartelle xdg e genera un menu delle applicazioni compatibile con jwm.
+
+Lo script si basa su [fbmenugen](https://trizenx.blogspot.com/2012/02/fbmenugen.html) adattato però alla sintassi di [JWM](https://joewing.net/projects/jwm/)
+
+### Download:
+
+[Github repository](${github_url}/jwmappmenugen)
+
+
+### Rilasci:
+- [0.8.1](${site_url}/articles/2017/09/23/jwmappmenugen-081) - 23/09/2017 \n

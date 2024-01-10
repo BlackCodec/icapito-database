@@ -1,0 +1,7 @@
+{
+    "content": "Nella release 20230425.1300 è stato riscritto il codice per utilizzare le regex.\n\n###Repository:\n\n[Github repository](${github_url}/java-JsonService)",
+    "description": "Una libreria java in meno di 400 righe (commenti esclusi) per la gestione dei json.",
+    "template": "article",
+    "title": "java-JsonService - 20230425.1300",
+    "type": "markdown"
+}

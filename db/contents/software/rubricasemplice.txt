@@ -1,0 +1,7 @@
+### Descrizione: \n
+Semplice rubrica telefonica.\n
+\n
+### Download: \n
+[1.1](${site_url}/repository/Rubrica%20Semplice%20v1.1.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2010/10/20/rubricasemplice-11) - 14/01/2013 \n

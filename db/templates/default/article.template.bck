@@ -1,0 +1,27 @@
+<div id="container">
+  <div id="menu">${include:menu}</div>
+  
+  <div id="about">
+    <div id="about-text">
+      <p class="me">Black_Codec</p>
+      <a href="#" class="github">@</a>
+      <a href="#" class="linkedn">ln</a>
+    </div>
+
+  </div>
+  <div id="center">
+    <div id="search">
+      <input id="search-text" type="text" placeholder="Search..."/>
+      <button id="search-btn" onclick="google_search('search-text',false);" type="submit">Search</button>
+    </div>
+    <div id="content">
+      <div id="content-title">${title}</div>
+      <div id="content-text">
+      	${description}
+      	<br/>
+        ${content}
+      </div>
+      <div id="footer">UAT Blog engine release ${release} - Copyright Black_Codec 2000-${year}</div>
+    </div>
+  </div>
+</div>

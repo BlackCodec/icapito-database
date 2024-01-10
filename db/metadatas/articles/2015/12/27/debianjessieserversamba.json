@@ -1,0 +1,1 @@
+{"content":"${file:debianjessieserversamba.txt}","description":"Vediamo come configurare un server debian affinché fornisca accesso alle cartelle via samba (cioè mediante il protocollo cifs).","template":"article","title":"Debian (Jessie) – Server samba","type":"markdown"}

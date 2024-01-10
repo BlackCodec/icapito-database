@@ -1,0 +1,7 @@
+{
+    "content": "Nella release 20230426.1100 è stato ottimizzato il codice e modificato il nome dell'enum da HttpMethod a HttpRequestMethod.\n\n###Repository:\n\n[Repository](${github_url}/java-RestClient)",
+    "description": "Una libreria java in meno di 200 righe che implementa un client rest.",
+    "template": "article",
+    "title": "java-RestClient - 20230426.1100",
+    "type": "markdown"
+}

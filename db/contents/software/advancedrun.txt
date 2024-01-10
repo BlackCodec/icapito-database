@@ -1,0 +1,9 @@
+### Descrizione: \n
+Semplice launcher che consente di associare degli alias a dei comandi comuni e di eseguirli. \n
+\n
+### Download: \n
+[1.2](${site_url}/repository/advancedrun-12.zip)\n
+### Rilasci:\n
+- [1.2](${site_url}/articles/2018/04/29/advancedrun-12) - 29/04/2018 \n
+- [1.1](${site_url}/articles/2018/04/28/advancedrun-11) - 28/04/2018 \n
+- [1.0](${site_url}/articles/2018/04/22/advancedrun-10) - 22/04/2018 \n

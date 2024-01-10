@@ -1,0 +1,1 @@
+{"content":"${file:debianvggrouplvm.txt}","description":"In questa guida vedremo come creare un gruppo di volumi e un volume logico su di esso.","template":"article","title":"Debian – Creazione VG-Group e LVM","type":"markdown"}

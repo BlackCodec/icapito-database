@@ -1,0 +1,5 @@
+Questa è una versione modificata dello script di [bahamondev](https://github.com/bahamondev/hide-titles) che rimuove (hide) la barra del titolo dalle finestre massimizzata di kde.
+
+### Repository:
+
+[1.0.3](${github_url}/hide-titles-mod)

@@ -1,0 +1,6 @@
+### Descrizione: \n
+Semplice applicativo a riga di comando per consente di copia o spostare files. \n
+### Download: \n
+[1.0](${site_url}/repository/advcpmvcmd10.zip)\n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2013/10/02/advancedcopymovefilecommand-10) - 02/10/2013 \n

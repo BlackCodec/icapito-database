@@ -1,0 +1,16 @@
+Alcuni utenti Arch avranno notato che dalla versione 0.4.1-24 del pacchetto lxdm l'autologin sembra non funzionare, 
+prima solo per chi aveva abilitato il modulo pam dalla versione 0.4.1-25 anche per chi non ha il modulo pam abilitato... \n
+Ebbene un workaround esiste ed è anche banale basta editare il file \n
+```
+    /etc/lxdm/lxdm.conf
+```
+\n
+e impostare il valore di timeout uguale a 1: \n
+```
+    timeout=1
+```
+\n
+Questo mostrerà la schermata di login per circa 1 secondo e poi procederà come il vecchio lxdm con autologin.\n
+Attenzione se impostate quel valore a 0 non funzionerà, fregatevene dell'avviso che il valore di timeout deve essere maggiore o uguale a 5. \n
+\n
+Spero che a qualcuno torni utile.

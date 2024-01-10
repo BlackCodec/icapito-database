@@ -1,0 +1,63 @@
+1. Installiamo il software \n
+``` 
+    # apt-get install vsftpd
+```
+2. Assicuriamoci che il servizio sia fermo: \n
+```
+    # /etc/init.d/vsftpd stop
+    [ ok ] Stopping vsftpd (via systemctl): vsftpd.service.
+```
+3. Creiamo una copia di backup del file di configurazione: \n
+```
+    # mv /etc/vsftpd.conf /etc/vsftpd.conf.orig
+    # cat /etc/vsftpd.conf.orig | grep -v "#" > /etc/vsftpd.conf
+```
+4. A questo punto aggiungiamo le seguenti righe che autorizzano la scrittura e la possibilità di effettuare chroot come utente locale del server: \n
+```
+    # echo "write_enable=YES
+    ascii_upload_enable=YES
+    ascii_download_enable=YES
+    chroot_local_user=YES
+    ls_recurse_enable=YES
+    user_sub_token=\$USER
+    local_root=/home/\$USER/shares
+    seccomp_sandbox=NO
+    allow_writeable_chroot=YES
+    pasv_enable=YES
+    pasv_min_port=64000
+    pasv_max_port=64001
+    port_enable=YES
+    local_umask=022" >> /etc/vsftpd.conf
+```
+\n
+Attenzione il path definito in local_root verrà cercata come chroot, in altre parole per ogni utente verrà cercata la cartella 
+shares all'interno della home (situata in /home).
+\n
+5. Riavviamo il servizio: \n
+```
+    # /etc/init.d/vsftpd restart
+```
+6. [Opzionale] Creiamo le cartelle predefinite in /etc/skel (questo lo facciamo per fare in modo che venga creata la cartella shares – local_root 
+del punto 4 – per ogni utente aggiunto): \n
+```
+    # mkdir /etc/skel/shares
+```
+7. [Opazionale] Rendiamo disponibile la shell /bin/false, questa shell inibisce l'accesso da ssh (o quanto meno lo rende assai più complicato): \n
+```
+    # echo "/bin/false" >> /etc/shells
+    # cat /etc/shells# /etc/shells: valid login shells
+    /bin/sh
+    /bin/dash
+    /bin/bash
+    /bin/rbash
+    /bin/false
+```
+8. Creiamo ora un utente per l'accesso ftp inibendogli l'accesso ssh: \n
+```
+    # useradd -s /bin/false -m utente1
+    # passwd utente1
+    Immettere nuova password UNIX:
+    Reimmettere la nuova password UNIX:
+    passwd: password aggiornata correttamente
+```
+9. Possiamo ora testare la connessione ftp con username utente1 e password quella inserita.

@@ -1,0 +1,57 @@
+## Linux
+
+ - [JWM application menu generator](${site_url}/software/jwmappmenugen) (Release: [0.8.1](${site_url}/articles/2017/09/23/jwmappmenugen-081) - 23/09/2017)\n
+ - [JWM Scripts](${site_url}/software/jwmscripts) (Release: [20221125.1635](${site_url}/articles/2022/11/25/jwmscripts) - 25/11/2022)\n
+ - [KDE Script - Hide titles mod](${site_url}/software/hidetitlesmod) (Release: [1.0.3](${site_url}/articles/2021/10/25/hidetitlesmod-103) - 25/10/2021)\n
+ - [MenuGenerator](${site_url}/software/menugenerator) (Release: [1.1](${site_url}/articles/2022/10/16/menugenerator-11) - 16/10/2022)\n
+ - [MyExit](${site_url}/software/myexit) (Release: [1.0](${site_url}/articles/2022/12/19/myexit-10) - 19/12/2022)\n
+ - [MyWhatsAppWeb](${site_url}/software/mywhatsappweb) (Release: [20230504](${site_url}/articles/2023/05/04/mywhatsappweb) - 04/05/2023)\n
+ - [Site2App](${site_url}/software/site2app) (Release: [20230503](${site_url}/articles/2023/05/03/site2app) - 03/05/2023)\n
+ - [Stupid Simply Web Browser](${site_url}/software/sswb) (Release: [220612](${site_url}/articles/2022/06/12/sswb) - 12/06/2022)\n
+ - [ValaOtp](${site_url}/software/valaotp) (Release: [20231213](${site_url}/articles/2023/12/13/valaotp) - 13/12/2023)\n
+ - [VOID Scripts](${site_url}/software/void-scripts) (Release: [20230125](${site_url}/articles/2023/01/25/void-scripts) - 25/01/2023)\n
+
+---
+
+## Java
+
+ - [JsonService](${site_url}/software/java-jsonservice) (Release: [20230425](${site_url}/articles/2023/04/25/java-jsonservice) - 25/04/2023)
+ - [RestClient](${site_url}/software/java-restclient) (Release: [20230426](${site_url}/articles/2023/04/26/java-restclient) - 26/04/2023)
+
+---
+
+## Javascript
+ - [UnderATrain javascript blog engine](${site_url}/software/uat-javascript-blog) (Release: [1.1](${site_url}/articles/2022/09/14/uat-javascript-blog-11) - 14/09/2022)\n
+
+--- 
+
+## Archiviati
+
+### Windows
+
+
+- [Advanced Copy / Move File Command](${site_url}/software/advancedcopymovefilecommand) (Release: [1.0](${site_url}/articles/2013/10/02/advancedcopymovefilecommand-10) - 02/01/2013)\n
+- [AdvancedRun](${site_url}/software/advancedrun) (Release: [1.2](${site_url}/articles/2018/04/29/advancedrun-12) - 29/04/2018)\n
+- [AntiCicio](${site_url}/software/anticicio) (Release: [2.0](${site_url}/articles/2011/12/17/anticicio-20) - 17/12/2011)\n
+- [Assistenza Remota](${site_url}/software/assistenzaremota) (Release: [1.0](${site_url}/articles/2010/11/15/assistenzaremota-10) - 15/11/2010)\n
+- [Black Crypt Tool](${site_url}/software/blackcrypttool) (Release: [1.0](${site_url}/articles/2013/11/21/blackcrypttool-10) - 21/11/2013)\n
+- [Blocco Popup](${site_url}/software/bloccopopup) (Release: [1.0](${site_url}/articles/2012/05/04/bloccopopup-10) - 04/05/2012)\n
+- [Check DNS](${site_url}/software/checkdns) (Release: [1.1](${site_url}/articles/2013/08/28/checkdns-11) - 28/08/2013)\n
+- [Check DNS Record](${site_url}/software/checkdnsrecord) (Release: [1.0](${site_url}/articles/2013/09/10/checkdnsrecord-10) - 10/09/2013)\n
+- [Check Reverse DNS](${site_url}/software/checkreversedns) (Release: [1.0](${site_url}/articles/2013/09/10/checkreversedns-10) - 10/09/2013)\n
+- [Converti in NTFS](${site_url}/software/convertiinntfs) (Release: [1.0](${site_url}/articles/2010/11/26/convertiinntfs-10) - 26/11/2010)\n
+- [Impostazioni Proxy](${site_url}/software/impostazioniproxy) (Release: [2.0](${site_url}/articles/2012/01/04/impostazioniproxy-20) - 04/01/2012)\n
+- [Isa Filter Builder](${site_url}/software/isafilterbuilder) (Release: [1.0](${site_url}/articles/2010/11/05/isafilterbuilder-10) - 05/11/2010)\n
+- [Large File Reader](${site_url}/software/largefilereader) (Release: [2.0.1](${site_url}/articles/2011/06/04/largefilereader-201) - 04/06/2011)\n
+- [Manage RDP Time](${site_url}/software/managerdptime) (Release: [1.0](${site_url}/articles/2011/07/06/managerdptime-10) - 06/07/2011)\n
+- [Middle Mouse Menu](${site_url}/software/middlemousemenu) (Release: [2.0](${site_url}/articles/2017/02/01/middlemousemenu-20) - 01/02/2017)\n
+- [My Custom Starts](${site_url}/software/mycustomstarts)(Release [1.1](${site_url}/articles/2017/10/15/mycustomstarts-11) - 15/10/2017)\n
+- [My Files Catalog](${site_url}/software/myfilescatalog) (Release: [1.0](${site_url}/articles/2011/05/30/myfilescatalog-10) - 30/05/2011)\n
+- [MySQL Backup DB](${site_url}/software/mysqlbackupdb) (Release: [1.0](${site_url}/articles/2011/06/03/mysqlbackupdb-10) - 03/06/2011)\n
+- [OpenWith](${site_url}/software/openwith) (Release: [1.0.1](${site_url}/articles/2011/07/26/openwith-101) - 26/07/2011)\n
+- [Packard Bell Social](${site_url}/software/packardbellsocial) (Release: [1.1](${site_url}/articles/2012/03/15/packardbellsocial-11) - 15/03/2012)\n
+- [Pinger](${site_url}/software/pinger) (Release: [1.0](${site_url}/articles/2013/01/14/pinger-10) - 14/01/2013)\n
+- [Rubrica Semplice](${site_url}/software/rubricasemplice) (Release: [1.1](${site_url}/articles/2010/10/20/rubricasemplice-11) - 20/10/2010)\n
+- [RunAs Builder](${site_url}/software/runasbuilder) (Release: [1.0](${site_url}/articles/2011/03/10/runasbuilder-10) - 10/03/2011)\n
+- [Test My Site](${site_url}/software/testmysite) (Release: [1.0](${site_url}/articles/2011/07/12/testmysite-10) - 12/07/2011)\n
+- [Windows XP Update fix](${site_url}/software/windowsxpupdatefix) (Release: [1.0](${site_url}/articles/2010/11/26/windowsxpupdatefix-10) - 26/11/2010)\n

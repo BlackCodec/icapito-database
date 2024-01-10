@@ -1,0 +1,6 @@
+{
+    "content": "ValaOtp è un programma scritto vala che è in grado di processare un otpauth url e invocare con gli opportuni parametri oathtool per generare un codice otp.\n\n###Download:\n[Repository](${github_url}/valaotp)\n\n###Rilasci:\n - [20231213](${site_url}/articles/2023/12/13/valaotp) - 13/12/2023",
+    "template": "page",
+    "title": "ValaOtp",
+    "type": "markdown"
+}

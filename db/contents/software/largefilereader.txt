@@ -1,0 +1,7 @@
+### Descrizione: \n
+Programma che consente di aprire dei file solo alcune righe per volta. \n
+\n
+### Download: \n
+[2.0.1](${site_url}/repository/LargeFileReader201.zip)\n
+### Rilasci:\n
+- [2.0.1](${site_url}/articles/2011/06/04/largefilereader-201) - 04/06/2011 \n

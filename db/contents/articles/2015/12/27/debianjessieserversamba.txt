@@ -1,0 +1,80 @@
+1. Installiamo il software necessario: \n
+```
+    # apt-get install samba samba-common
+```
+\n
+2. Creiamo una copia del file di configurazione: \n
+```
+    # mv /etc/samba/smb.conf /etc/samba/smb.conf.orig
+    # cat /etc/samba/smb.conf.orig  | grep -v "#" | grep -v ";" > /etc/samba/smb.conf
+```
+\n
+3. Creiamo ora una password per l'utente utente1: \n
+```
+    # smbpasswd -a utente1
+    New SMB password:
+    Retype new SMB password:
+    Added user utente1.
+```
+\n
+4. Ora andiamo a modificare il file smb.conf in /etc/samba andando ad impostare i valori in 
+global workgroup e usershare allow guests. Mentre per lo share homes impostiamo browseable a yes e read only a no, 
+quindi sempre in homes aggiungiamo la dicitura path = /home/%S/shares (shares è la cartella che voglio sia 
+condivisa come home dell'utente), di seguito un esempio del file smb.conf che ho utilizzato: \n
+```
+    # cat /etc/samba/smb.conf
+
+    [global]
+    # gruppo
+    workgroup = CASA
+    #
+    dns proxy = no
+    log file = /var/log/samba/log.%m
+    max log size = 1000
+    syslog = 0
+    panic action = /usr/share/samba/panic-action %d
+    server role = standalone server
+    passdb backend = tdbsam
+    obey pam restrictions = yes
+    unix password sync = yes
+    passwd program = /usr/bin/passwd %u
+    passwd chat = *Enter\snew\s*\spassword:* %n\n *Retype\snew\s*\spassword:* %n\n *password\supdated\ssuccessfully* .
+    pam password change = yes
+    map to guest = bad user
+    # autorizzare guest accounts
+    usershare allow guests = yes
+    #
+    [homes]
+    comment = Home Directories
+    # importante: visibilità e scrittura
+    browseable = yes
+    read only = no
+    #
+    create mask = 0700
+    directory mask = 0700
+    valid users = %S
+    # condivisioni
+    path = /home/%S/shares
+    #
+    [printers]
+    comment = All Printers
+    browseable = no
+    path = /var/spool/samba
+    printable = yes
+    guest ok = no
+    read only = yes
+    create mask = 0700
+    [print$]
+    comment = Printer Drivers
+    path = /var/lib/samba/printers
+    browseable = yes
+    read only = yes
+    guest ok = no
+```
+\n
+5. Infine riavviamo il servizio samba: \n
+```
+    # /etc/init.d/smbd restart
+    [ ok ] Restarting smbd (via systemctl): smbd.service.
+```
+\n

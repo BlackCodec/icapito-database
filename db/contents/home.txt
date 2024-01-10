@@ -1,0 +1,11 @@
+### Ultimi articoli \n
+- [Sono ancora qua](${site_url}/articles/2024/01/10/sono-ancora-qua) (10/01/2024)\n
+- [Anno nuovo](${site_url}/articles/2024/01/05/anno-nuovo) (05/01/2024) \n
+\n
+\n
+### Ultimi rilasci \n
+ - 13/12/2023: [ValaOtp](${site_url}/software/valaotp) Release [20231213.1922](${site_url}/articles/2023/12/13/valaotp)
+ - 04/05/2023: [MyWhatsAppWeb](${site_url}/software/mywhatsappweb) Release: [20230504.1000](${site_url}/articles/2023/05/04/mywhatsappweb)
+ - 03/05/2023: [Site2App](${site_url}/software/site2app) Release: [20230503.1800](${site_url}/articles/2023/05/03/site2app)
+ - 26/04/2023: [Java RestClient](${site_url}/software/java-restclient) Release: [20230426.1100](${site_url}/articles/2023/04/26/java-restclient)
+ - 25/04/2023: [Java JsonService](${site_url}/software/java-jsonservice) Release: [20230425.1300](${site_url}/articles/2023/04/25/java-jsonservice)

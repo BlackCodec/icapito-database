@@ -1,0 +1,8 @@
+### Descrizione: \n
+Personalizzazione del pulsante Social dei PackardBell\n
+\n
+### Download: \n
+[1.1](${site_url}/repository/PackardBellSocial.zip)\n
+### Rilasci:\n
+- [1.1](${site_url}/articles/2012/03/15/packardbellsocial-11) - 15/03/2012 \n
+- [1.0](${site_url}/articles/2012/01/21/packardbellsocial-10) - 21/01/2012 \n

@@ -1,0 +1,42 @@
+Un semplice script zenity che mostra un elenco di scelte ed esegue l'azione indicata il tutto gestito tramite un semplice file di configurazione che può essere specificato anche via riga di comando.
+
+---
+
+Altri parametri da riga di comando:
+
+ - -h : mostra il messaggio di aiuto
+ - -v : stampa la release corrente
+ 
+---
+
+Esempio:
+
+`myexit /tmp/test.conf`
+Lancia lo script utilizzando il file di configurazione /tmp/test.conf
+
+```myexit```
+Lancia lo script utilizzando il file di configurazione presente in $HOME/.config/myexit.conf
+
+---
+
+Il file di configurazione è un semplice file di testo in cui vanno specificati i seguenti campi:
+
+ - title: il titolo della ginesta di dialogo
+ - text: il messaggio da mostrare nella finestra di dialogo
+ - actions: elenco di stringhe (delimitate da apice e separate da virgola) con l'elenco delle azioni
+ 
+Per ciascuna azione definita in actions va poi creata una riga con associato il comando, prendiamo come esempio il seguente estratto del file di configurazione:
+
+<pre>
+title:'Exit'
+text:'Scegli cosa fare'
+actions:'Spengi' 'Riavvia' 'Annulla'
+Spengi:poweroff
+Riavvia:reboot
+</pre>
+
+come si vede l'azione "Annulla" non ha associata una riga quindi quando si seleziona quella scelta il programma esce senza eseguire nulla.
+
+###Repository:
+
+[Github repository](${github_url}/myexit)

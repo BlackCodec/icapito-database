@@ -1,0 +1,7 @@
+### Descrizione: \n
+Semplice applicativo per bloccare il mouse e la tastiera con un codice o una password. \n
+\n
+### Download: \n
+[2.0](${site_url}/repository/AntiCicio.zip)\n
+### Rilasci:\n
+- [2.0](${site_url}/articles/2011/12/17/anticicio-20) - 17/12/2011 \n

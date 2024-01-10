@@ -1,0 +1,7 @@
+### Descrizione: \n
+Semplice applicativo in grado di avviare dei programmi con dei parametri ben precisi. \n
+\n
+### Download: \n
+[1.1](${site_url}/repository/MyCustomStarts11.zip)\n
+### Rilasci:\n
+- [1.1](${site_url}/articles/2017/10/15/mycustomstarts-11) - 15/10/2017 \n

@@ -1,0 +1,4 @@
+{"content":"${file:coreosinstallazione.txt}","description":"Dopo molto tempo che non scrivevo più nulla è tornato il momento di una bella 
+guida.Iniziamo col presentare CoreOS, CoreOS è un sistema operativo basato su 
+Linux che si prefigge come obbiettivo quello di semplificare l'utilizzo di docker 
+e della tecnologia dei linux container.","template":"article","title":"CoreOS – Installazione base e analisi file configurazione","type":"markdown"}

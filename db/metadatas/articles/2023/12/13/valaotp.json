@@ -1,0 +1,7 @@
+{
+    "content": "Nella release 20231213.1922 è stata rimossa la dipendenza da pass-otp\n\n###Repository:\n\n[Github repository](${github_url}/valaotp)",
+    "description": "Programma vala che sostituisce otptool di QtPass.",
+    "template": "article",
+    "title": "ValaOtp - 20231213.1922",
+    "type": "markdown"
+}

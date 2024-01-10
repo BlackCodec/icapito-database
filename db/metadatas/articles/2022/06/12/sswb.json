@@ -1,0 +1,7 @@
+{
+    "content": "Nella release 220612.1 è stato aggiunto il supporto per visualizzare i file locali (file://percorso\\_al\\_file\\_html).\n\nNelle precedenti release erano stati già aggiunti i supporti per:\n\n - url speciali quali home, about:blank, about:config e about:bookmarks\n - definire il proprio search engine\n - specificare quale mime type non dovesse essere scaricato ma aperto direttamente\n - gestione dei preferiti tramite file di configurazione\n - gestione di tutte le opzioni direttamente dal file json di configurazione in $HOME\n - se il file di configurazione non esiste nella $HOME verrà creato automaticamente al primo avvio\n - download parallelo dei file \n\n###Repository:\n\n[Repository](${github_url}/sswb)",
+    "description": "Un semplice browser web gtk scritto in python",
+    "template": "article",
+    "title": "Stupid Simply Web Browser - 220612.1",
+    "type": "markdown"
+}

@@ -1,0 +1,6 @@
+{
+    "content": "###Descrizione: \n\nRaccolta di alcuni script per [JWM](https://joewing.net/projects/jwm/).\n\n###Download: \n\n[Github repository](${github_url}/jwm-scripts)\n\n### Rilasci:\n\n- [20221125.1635](${site_url}/articles/2022/11/25/jwmscripts) - 25/10/2021 \n",
+    "template": "page",
+    "title": "JWM Scripts",
+    "type": "markdown"
+}

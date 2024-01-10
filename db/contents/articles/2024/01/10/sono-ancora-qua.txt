@@ -1,0 +1,13 @@
+Come ho detto nel precedente post di inizio 2024 sono stati anni duri ma fortunatamente sono ancora qua...
+
+Nel frattempo in realtà sono andato avanti con altri progetti principalmente su Linux ormai...
+
+Ma non finisce qui!!! Abbiamo la nuova versione, con tanto di tema, del blog [iCapito.it](${site_url})!
+
+L'attuale versione è un work in progress di quella che sarà la successiva release del [blog engine](${site_url}/software/uat-javascript-blog).
+
+In realtà il lavoro dietro è ancora molto ma quale miglior banco di prova se non il proprio sito?!
+
+Già, ora speriamo che tutto funzioni come ci si aspetta altrimenti mi toccherà correre urgentemente ai ripari!!!
+
+Per ora è tutto e stay tuned...

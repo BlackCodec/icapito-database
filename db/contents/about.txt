@@ -1,0 +1,12 @@
+<div id="about-text">
+<p class="me">Black_Codec</p>
+<div class="smalltext">
+Sistemista Senior in ambito windows e linux.<br/>
+Security expert specializzato nelle soluzioni Oracle Identity and Access Manager.<br/>
+Sviluppatore a tempo perso ...<br/>
+</div>
+<div id="links">
+<a class="nodeco" href="https://github.com/BlackCodec" class="github">⚙️</a>
+<a class="nodeco" href="https://www.linkedin.com/in/fabio-dell-orso">📰</a>
+</div>
+</div>

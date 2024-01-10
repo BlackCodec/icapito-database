@@ -1,0 +1,7 @@
+### Descrizione: \n
+Gui per la creazione delle regole di filtraggio del proxy isa.\n
+\n
+### Download: \n
+[1.0](${site_url}/repository/IsaFilterBuilder%20v1.0.zip) \n
+### Rilasci:\n
+- [1.0](${site_url}/articles/2010/11/05/isafilterbuilder-10) - 05/11/2010 \n

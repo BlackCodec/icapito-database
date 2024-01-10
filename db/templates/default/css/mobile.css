@@ -1,0 +1,39 @@
+body {
+    background-color: whitesmoke;
+}
+
+.bottone {
+    display: block;
+    cursor: pointer;
+    font-family: serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.bottone a {
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    color: black !important;
+    background-color: #e6e6e6;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: -30px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+    
+#menudinamico {
+    text-decoration: none;
+    color:black;
+}
+
+#mobilemenu {
+    float: left;
+    z-index: 11;
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+}
