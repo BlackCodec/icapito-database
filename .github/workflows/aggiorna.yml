@@ -18,10 +18,14 @@ jobs:
       - shell: bash
         name: Generate a new site map
         run: |
+          apt install -y jq
           chmod +x /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
+          chmod +x /home/runner/work/icapito-database/icapito-database/scripts/feedrss.sh
           /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
+          /home/runner/work/icapito-database/icapito-database/scripts/feedrss.sh
           git config --local user.name "githubaction"
-          git add ./db/
+          git add ./db/sitemap.xml
+          git add ./db/feed-rss.xml
           git commit -m "Update sitemap"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push

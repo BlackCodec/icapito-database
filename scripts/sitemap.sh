@@ -1,23 +1,23 @@
 #!/bin/bash
-base_dir="/home/runner/work/icapito-database/icapito-database/db/"
+base_dir="/home/runner/work/icapito-database/icapito-database/db/metadatas"
 base_url="https://www.icapito.it"
-cd ${base_dir}
-[[ -f sitemap_old.xml ]] && rm -f ${base_dir}/sitemap_old.xml
-[[ -f sitemap.xml ]] && mv ${base_dir}/sitemap.xml ${base_dir}/sitemap_old.xml
-echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > sitemap.xml
-echo "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">" >> sitemap.xml
+dest_file="${base_dir}/../sitemap.xml"
+bck_file="${base_dir}/../../backup/sitemap.xml"
+replacer="/./"
+[[ -f "${bck_file}" ]] && rm -f "${bck_file}"
+[[ -f "${dest_file}" ]] && mv "${dest_file}" "${bck_file}"
+cd "${base_dir}"
+echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > "${dest_file}"
+echo "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">" >> "${dest_file}"
 for curr_file in $(find . -type f); do
-  if [[ "${curr_file}" == "feed-rss.xml" ]] || [[ "${curr_file}" == "sitemap.xml" ]] || [[ "${curr_file}" == "sitemap_old.xml" ]]; then
-    continue
-  fi
   mod=$(date -r ${curr_file} +%y-%m-%d)
-  name=$(echo "${curr_file}" | sed "s/.xml$//")
+  name=${curr_file%.*}
   name=$(echo "${base_url}/${name}")
-  echo "<url>" >> sitemap.xml
-  echo "<loc>${name}</loc>" >> sitemap.xml
-  echo "<lastmod>${mod}</lastmod>" >> sitemap.xml
-  echo "</url>" >> sitemap.xml
+  echo "<url>" >> "${dest_file}"
+  echo "<loc>${name}</loc>" >> "${dest_file}"
+  echo "<lastmod>${mod}</lastmod>" >> "${dest_file}"
+  echo "</url>" >> "${dest_file}"
 done
-echo "</urlset>" >> sitemap.xml
-cat sitemap.xml
+echo "</urlset>" >> "${dest_file}"
+sed -i "s|${replacer}|/|g" "${dest_file}"
 exit 0
