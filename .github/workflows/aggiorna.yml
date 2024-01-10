@@ -27,6 +27,7 @@ jobs:
           git config --local user.name "githubaction"
           git add ./db/sitemap.xml
           git add ./db/feed-rss.xml
+          git add ./backup/*
           git commit -m "Update sitemap"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
