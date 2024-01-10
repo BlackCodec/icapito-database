@@ -10,7 +10,7 @@ cd "${base_dir}"
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > "${dest_file}"
 echo "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">" >> "${dest_file}"
 for curr_file in $(find . -type f); do
-  mod=$(date -r ${curr_file} +%y-%m-%d)
+  mod=$(date -r ${curr_file} +%Y-%m-%d)
   name=${curr_file%.*}
   name=$(echo "${base_url}/${name}")
   echo "<url>" >> "${dest_file}"
