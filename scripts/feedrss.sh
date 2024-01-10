@@ -1,6 +1,6 @@
 #!/bin/bash
 base_dir="/home/runner/work/icapito-database/icapito-database/db/metadatas/articles/"
-base_url="https://www.icapito.it"
+base_url="https://www.icapito.it/articles"
 dest_file="${base_dir}/../../feed-rss.xml"
 bck_file="${base_dir}/../../../backup/feed-rss.xml"
 replacer="/./"
