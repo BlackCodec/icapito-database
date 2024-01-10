@@ -20,7 +20,6 @@ jobs:
       - shell: bash
         name: Generate a new site map
         run: |
-          apt install -y jq
           chmod +x /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
           chmod +x /home/runner/work/icapito-database/icapito-database/scripts/feedrss.sh
           /home/runner/work/icapito-database/icapito-database/scripts/sitemap.sh
