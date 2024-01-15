@@ -1,4 +1,5 @@
 ### Ultimi articoli \n
+- [Q4OS - Trinity DE review](${site_url}/articles/2024/01/15/q4os-trinity) (15/01/2024)\n
 - [Sono ancora qua](${site_url}/articles/2024/01/10/sono-ancora-qua) (10/01/2024)\n
 - [Anno nuovo](${site_url}/articles/2024/01/05/anno-nuovo) (05/01/2024) \n
 \n
