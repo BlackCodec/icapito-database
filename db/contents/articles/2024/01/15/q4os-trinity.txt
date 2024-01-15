@@ -4,7 +4,7 @@ Oggi volevo riportarvi la mia esperienza con [Q4OS](https://q4os.org/) e più in
 
 Q4OS è una distribuzione basata su [Debian](https://www.debian.org/) da cui eredita la stabilità (si appoggia infatti al ramo bookworm attuale stable con l'aggiunta dei repository proposed e backports) e il gran numero di pacchetti, aggiungedovi i propri attraverso alcuni repository custom.
 
-Q4OS viene rilasciata sia col desktop environment KDE Plasma che con Trinity, su entrambe sono presenti tool quali il "Software Centre" e il "Welcome Screen" due tool che facilitano la vita dell'utente.
+Q4OS viene rilasciata sia col desktop environment KDE Plasma che con Trinity, su entrambe le release è presente un "Welcome Screen" e un "Software Centre", due tool che facilitano la vita dell'utente, soprattutto per i più novizi.
 
 Il Software Centre consente all'utente di installare rapidamente le applicazioni più comuni quali browser, office ma anche vlc o i codec multimediali etc:
 
