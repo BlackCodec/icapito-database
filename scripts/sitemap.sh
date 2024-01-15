@@ -21,8 +21,7 @@ for curr_file in $(find . -type f -not -path "./draft/*"); do
   echo "Raw filename: ${curr_file}" >> ${log_file}
   mod=$(date -r ${curr_file} +%Y-%m-%d)
   name=${curr_file%.*}
-  name=$(echo "${name/\/.\//}")
-  name=$(echo "${base_url}/${name}")
+  name=$(echo "${base_url}/${name}" | sed "s|${replacer}|/|g")
   echo " - Mod: ${mod}" >> ${log_file}
   echo " - Loc: ${name}" >> ${log_file}
   if [[ $(cat "${dest_file}" | grep "${name}" | wc -l) < 0 ]]; then
