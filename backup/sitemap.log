@@ -1,4 +1,4 @@
---> INIZIO Mon Jan 15 15:37:11 UTC 2024
+--> INIZIO Mon Jan 15 15:41:57 UTC 2024
 File esistente, rimozione linea
 Raw filename: ./software/convertiinntfs.json
  - Mod: 2024-01-15
@@ -582,7 +582,9 @@ Raw filename: ./articles/2024/01/10/sono-ancora-qua.json
 Raw filename: ./articles/2024/01/15/q4os-trinity.json
  - Mod: 2024-01-15
  - Loc: https://www.icapito.it/articles/2024/01/15/q4os-trinity
- --> Aggiungo: https://www.icapito.it/articles/2024/01/15/q4os-trinity
+ --x Trovato: https://www.icapito.it/articles/2024/01/15/q4os-trinity
+<loc>https://www.icapito.it/articles/2024/01/15/q4os-trinity</loc>
+ --x
 Raw filename: ./articles/2024/01/05/anno-nuovo.json
  - Mod: 2024-01-15
  - Loc: https://www.icapito.it/articles/2024/01/05/anno-nuovo
@@ -709,8 +711,4 @@ Raw filename: ./articles/2012/05/04/bloccopopup-10.json
  --x Trovato: https://www.icapito.it/articles/2012/05/04/bloccopopup-10
 <loc>https://www.icapito.it/articles/2012/05/04/bloccopopup-10</loc>
  --x
-Raw filename: ./articles/draft/idm1.json
- - Mod: 2024-01-15
- - Loc: https://www.icapito.it/articles/draft/idm1
- --> Aggiungo: https://www.icapito.it/articles/draft/idm1
---> FINE Mon Jan 15 15:37:12 UTC 2024
+--> FINE Mon Jan 15 15:41:58 UTC 2024
