@@ -24,7 +24,7 @@ for curr_file in $(find . -type f -not -path "./draft/*"); do
   name=$(echo "${base_url}/${name}" | sed "s|${replacer}|/|g")
   echo " - Mod: ${mod}" >> ${log_file}
   echo " - Loc: ${name}" >> ${log_file}
-  if [[ $(cat "${dest_file}" | grep "${name}" | wc -l) < 0 ]]; then
+  if [[ $(cat "${dest_file}" | grep "<loc>${name}</loc>" | wc -l) < 1 ]]; then
     echo " --> Aggiungo: ${name}" >> ${log_file}
     echo "<url>" >> "${dest_file}"
     echo "<loc>${name}</loc>" >> "${dest_file}"
