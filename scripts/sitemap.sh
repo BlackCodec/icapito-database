@@ -22,18 +22,19 @@ for curr_file in $(find . -type f -not -path "./draft/*"); do
   mod=$(date -r ${curr_file} +%Y-%m-%d)
   name=${curr_file%.*}
   name=$(echo "${base_url}/${name}")
-  name=$(echo "${name/\/.\//}")
-  echo "Mod: ${mod}" >> ${log_file}
-  echo "Loc: ${name}" >> ${log_file}
-  if [[ $(cat "${dest_file}" | grep "${name}" | wc -l) < 0 ]]; then
-    echo "Aggiungo: ${name}" >> ${log_file}
+  name=$(echo "${name/\/.\/\//}")
+  echo " - Mod: ${mod}" >> ${log_file}
+  echo " - Loc: ${name}" >> ${log_file}
+  if [[ $(cat "${dest_file}" | grep "${name}" | wc -l) < 1 ]]; then
+    echo " --> Aggiungo: ${name}" >> ${log_file}
     echo "<url>" >> "${dest_file}"
     echo "<loc>${name}</loc>" >> "${dest_file}"
     echo "<lastmod>${mod}</lastmod>" >> "${dest_file}"
     echo "</url>" >> "${dest_file}"
   else
-    echo "Trovato: ${name}" >> ${log_file}
+    echo " --x Trovato: ${name}" >> ${log_file}
     cat "${dest_file}" | grep "${name}" >> ${log_file}
+    echo " --x" >> ${log_file}
   fi
 done
 echo "</urlset>" >> "${dest_file}"
