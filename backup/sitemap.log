@@ -1,4 +1,4 @@
---> INIZIO Wed Feb  7 09:20:40 UTC 2024
+--> INIZIO Wed Feb  7 09:50:16 UTC 2024
 File esistente, rimozione linea
 Raw filename: ./guide.json
  - Mod: 2024-02-07
@@ -183,7 +183,9 @@ Raw filename: ./articles/2017/10/15/mycustomstarts-11.json
 Raw filename: ./articles/2024/02/07/fedora-lxqt-lxde.json
  - Mod: 2024-02-07
  - Loc: https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde
- --> Aggiungo: https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde
+ --x Trovato: https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde
+<loc>https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde</loc>
+ --x
 Raw filename: ./articles/2024/01/15/q4os-trinity.json
  - Mod: 2024-02-07
  - Loc: https://www.icapito.it/articles/2024/01/15/q4os-trinity
@@ -715,4 +717,4 @@ Raw filename: ./home.json
  --x Trovato: https://www.icapito.it/home
 <loc>https://www.icapito.it/home</loc>
  --x
---> FINE Wed Feb  7 09:20:41 UTC 2024
+--> FINE Wed Feb  7 09:50:17 UTC 2024
