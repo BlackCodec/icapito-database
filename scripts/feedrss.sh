@@ -26,7 +26,7 @@ for day in $(ls -1); do
     t_name=${curr_file_name%.*}
     link=$(echo "${base_url}/${year}/${month}/${day}/${t_name}")
     t_uid=$(echo "${year}.${month}.${day}-${t_name}")
-    temp=$(echo "  <item>"; echo "   <title>${title}</title>"; echo "   <link>${link}</link>"; echo "  <guid>${t_uid}</guid}"; echo "   <description>${desc}</description>"; echo "  </item>")
+    temp=$(echo "  <item>"; echo "   <title>${title}</title>"; echo "   <link>${link}</link>"; echo "   <guid>${t_uid}</guid>"; echo "   <description>${desc}</description>"; echo "  </item>")
     content="${temp}${content}"
   done
 done
