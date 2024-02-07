@@ -1,0 +1,7 @@
+{
+    "content": "${file:fedora-lxqt-lxde.txt}",
+    "template": "article",
+    "title": "Fedora LXQt - LXDE",
+    "type": "markdown",
+    "description": "Continuiamo la nostra rassegna dei desktop environment leggeri passando alle implementazioni di LXQt e LXDE su Fedora 39..."
+}
