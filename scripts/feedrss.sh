@@ -23,9 +23,10 @@ for day in $(ls -1); do
     curr_file="${base_dir}/${year}/${month}/${day}/${curr_file_name}"
     title=$(cat ${curr_file} | jq '.title')
     desc=$(cat ${curr_file} | jq '.description')
-    link=${curr_file_name%.*}
-    link=$(echo "${base_url}/${year}/${month}/${day}/${link}")
-    temp=$(echo "  <item>"; echo "   <title>${title}</title>"; echo "   <link>${link}</link>";  echo "   <description>${desc}</description>"; echo "  </item>")
+    t_name=${curr_file_name%.*}
+    link=$(echo "${base_url}/${year}/${month}/${day}/${t_name}")
+    t_uid=$(echo "${year}.${month}.${day}-${t_name}")
+    temp=$(echo "  <item>"; echo "   <title>${title}</title>"; echo "   <link>${link}</link>"; echo "  <guid>${t_uid}</guid}"; echo "   <description>${desc}</description>"; echo "  </item>")
     content="${temp}${content}"
   done
 done
