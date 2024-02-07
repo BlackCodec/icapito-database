@@ -4,11 +4,12 @@
   <title>iCapito</title>
   <link>https://www.icapito.it</link>
   <description>Ex UndeR A TraiN and BlackGroup</description>
-  <lastBuildDate>Wed, 07 Feb 2024 09:20:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Feb 2024 09:50:17 +0000</lastBuildDate>
   <language>it-IT</language>
   <item>
    <title>"Fedora LXQt - LXDE"</title>
    <link>https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde</link>
+  <guid>2024.02.07-fedora-lxqt-lxde</guid}
    <description>"Continuiamo la nostra rassegna dei desktop environment leggeri passando alle implementazioni di LXQt e LXDE su Fedora 39..."</description>
   </item>
  </channel>
