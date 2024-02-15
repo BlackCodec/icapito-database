@@ -4,7 +4,7 @@ Una semplice applicazione vala per la gestione dei container podman.
 
 Attualmente la versione presente nel repository consente di creare, eliminare, avviare container con podman.
 
-Non &grave; ancora stata implementata la gestione delle immagini dei container per ora vengono mostrate solamente
+Non &egrave; ancora stata implementata la gestione delle immagini dei container per ora vengono mostrate solamente
 le immagini che sono state trovate tramite il comando podman image list.
 
 
