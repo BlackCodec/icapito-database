@@ -15,7 +15,7 @@ Supporta anche i parametri di avvio da riga di comando, è possibile mostrare un
 
 <pre>
 Usage:
-../../bin/container-manager [--id=<id>] --name=<name_to_use> [--cmd=<command_to_execute>] 
+container-manager [--id=<id>] --name=<name_to_use> [--cmd=<command_to_execute>] 
  [--username=<username>] [--image=<specify_image_name>] [--mount=<mount_point>] 
  [--persist] [--background] [--term=<terminal_cmd>] 
  [--level=<SEVERE,WARNING,INFO,FINE,FINER,FINEST,OFF,ALL>]
