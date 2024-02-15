@@ -1,0 +1,7 @@
+{
+    "content": "${file:container-manager.txt}",
+    "template": "article",
+    "title": "Container manager pre-release",
+    "type": "markdown",
+    "description": "Presentazione di questo piccolo progetto vala ancora in fase di sviluppo ma già funzionante in buona parte"
+}

@@ -1,0 +1,6 @@
+{
+    "content": "${file:containermanager.txt}",
+    "template": "page",
+    "title": "Container manager",
+    "type": "markdown"
+}
