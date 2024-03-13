@@ -1,6 +1,6 @@
 Torniamo a parlare di desktop environment con la nostra solita rubrica a  e facciamolo focalizzandoci su XFCE e su una sua implementazione "ala Windows" così da confrontarlo con quanto abbiamo già visto in precedente con TDE.
 
-Lo faremo attraverso [Linux Lite](https://www.linuxliteos.com/), una derivata di [Ubuntu]https://ubuntu.com/) (o forse più della sua edizione con xfce - [Xubuntu](https://xubuntu.org/)) dalla quale eredita snap...
+Lo faremo attraverso [Linux Lite](https://www.linuxliteos.com/), una derivata di [Ubuntu](https://ubuntu.com/) (o forse più della sua edizione con xfce - [Xubuntu](https://xubuntu.org/)) dalla quale eredita snap...
 
 ## Inciso su snap
 Ok non sono un estimatore di snap ma dobbiamo essere comunque oggettivi, snap avrà mille pregi e altrettanti difetti onestamente però molte delle voci a riguardo non sono vere o lo sono per casi talmente particolari che forse farne un problema generale mi sembra esagerato. 
