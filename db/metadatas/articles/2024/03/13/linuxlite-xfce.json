@@ -1,0 +1,7 @@
+{
+    "content": "${file:linuxlite-xfce.txt}",
+    "template": "article",
+    "title": "Linux Lite - XFCE",
+    "type": "markdown",
+    "description": "Continuiamo la nostra rassegna dei desktop environment leggeri passando all'implementazione di XFCE su Linux Lite..."
+}
