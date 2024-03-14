@@ -4,9 +4,14 @@
   <title>iCapito</title>
   <link>https://www.icapito.it</link>
   <description>Ex UndeR A TraiN and BlackGroup</description>
-  <lastBuildDate>Wed, 13 Mar 2024 18:12:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 14 Mar 2024 09:02:20 +0000</lastBuildDate>
   <language>it-IT</language>
   <item>
+   <title>"Microterm 1.0"</title>
+   <link>https://www.icapito.it/articles/2024/03/14/microterm-10</link>
+   <guid>2024.03.14-microterm-10</guid>
+   <description>"Prima relase per microterm (µterm), un semplice emulatore di terminale basato su VTE e scritto in C che sfrutta le librerie grafiche GTK."</description>
+  </item>  <item>
    <title>"Linux Lite - XFCE"</title>
    <link>https://www.icapito.it/articles/2024/03/13/linuxlite-xfce</link>
    <guid>2024.03.13-linuxlite-xfce</guid>
