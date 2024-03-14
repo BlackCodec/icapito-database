@@ -3,34 +3,32 @@ Microterm (µterm) è un semplice emulatore di terminale basato su VTE e scritto
 ## Paranmetri di avvio
 
 ```
-microterm [-h] [-v] [-d] [-c config] [-t title] [-w workdir] [-e command]
-
-[-h] shows help
-[-v] shows version
-[-d] enables the debug messages
-[-c config]  specifies the configuration file
-[-t title]   sets the terminal title
-[-w workdir] sets the working directory
-[-e command] sets the command to execute in terminal
+microterm [-h] [-v] [-d] [-c config] [-t title] [-w workdir] [-e command] \n
+\n
+[-h] shows help \n
+[-v] shows version \n
+[-d] enables the debug messages \n
+[-c config]  specifies the configuration file \n
+[-t title]   sets the terminal title \n
+[-w workdir] sets the working directory \n
+[-e command] sets the command to execute in terminal \n
 ```
 
 ## Hotkeys
 
-| Key                         | Action                                             |
-| --------------------------- | -------------------------------------------------- |
-| `ctrl-shift-[c]`            | copy to clipboard                                  |
-| `ctrl-shift-[v][insert]`    | paste from clipboard                               |
-| `ctrl-shift-[r]`            | reload configuration file                          |
-| `ctrl-shift-[q]`            | close the application                              |
-| `ctrl-shift-[+]`            | increase font size                                 |
-| `ctrl-shift-[-]`            | decrease font size                                 |
-| `ctrl-shift-[=]`            | reset font size to default                         |
-| `ctrl-shift-[up][down]`     | split vertically with new terminal on top /bottom  |
-| `ctrl-shift-[left][right]`  | split horizontally with new terminal on left/right |
-| `ctrl-shift-[t][return]`    | open a new terminal in a new tab                   |
-| `ctrl-shift-[page up]`      | switch to the previous tab                         |
-| `ctrl-shift-[page down]`    | switch to the next tab                             |
-| `ctrl-shift-[backspace]`    | close the selected tab                             |
+- `ctrl-shift-[c]` -> copy to clipboard
+- `ctrl-shift-[v][insert]` -> paste from clipboard
+- `ctrl-shift-[r]` -> reload configuration file
+- `ctrl-shift-[q]` -> close the application
+- `ctrl-shift-[+]` -> increase font size
+- `ctrl-shift-[-]` -> decrease font size
+- `ctrl-shift-[=]` -> reset font size to default
+- `ctrl-shift-[up][down]` -> split vertically with new terminal on top /bottom 
+- `ctrl-shift-[left][right]` -> split horizontally with new terminal on left/right
+- `ctrl-shift-[t][return]` -> open a new terminal in a new tab
+- `ctrl-shift-[page up]` -> switch to the previous tab
+- `ctrl-shift-[page down]` -> switch to the next tab
+- `ctrl-shift-[backspace]` -> close the selected tab
 
 
 ## Screenshots
