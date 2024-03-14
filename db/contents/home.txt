@@ -7,6 +7,7 @@
 \n
 \n
 ### Ultimi rilasci \n
+ - 14/03/2024: [Microterm (µterm)](${site_url}/software/microterm) Release [1.0](${site_url}/articles/2024/03/14/microterm-10)
  - 13/02/2024: [Container Manager](${site_url}/software/container-manager) Release [20240213.1](${site_url}/articles/2024/02/15/container-manager)
  - 13/12/2023: [ValaOtp](${site_url}/software/valaotp) Release [20231213.1922](${site_url}/articles/2023/12/13/valaotp)
  - 04/05/2023: [MyWhatsAppWeb](${site_url}/software/mywhatsappweb) Release: [20230504.1000](${site_url}/articles/2023/05/04/mywhatsappweb)

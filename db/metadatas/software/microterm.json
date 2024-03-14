@@ -1,0 +1,6 @@
+{
+    "content": "${file:microterm.txt}",
+    "template": "page",
+    "title": "Microterm - µterm",
+    "type": "markdown"
+}
