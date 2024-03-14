@@ -2,17 +2,17 @@ Microterm (µterm) è un semplice emulatore di terminale basato su VTE e scritto
 
 ## Paranmetri di avvio
 
-```
-microterm [-h] [-v] [-d] [-c config] [-t title] [-w workdir] [-e command] \n
-\n
-[-h] shows help \n
-[-v] shows version \n
-[-d] enables the debug messages \n
-[-c config]  specifies the configuration file \n
-[-t title]   sets the terminal title \n
-[-w workdir] sets the working directory \n
-[-e command] sets the command to execute in terminal \n
-```
+<pre>
+microterm [-h] [-v] [-d] [-c config] [-t title] [-w workdir] [-e command] 
+
+[-h] shows help 
+[-v] shows version 
+[-d] enables the debug messages 
+[-c config]  specifies the configuration file 
+[-t title]   sets the terminal title 
+[-w workdir] sets the working directory 
+[-e command] sets the command to execute in terminal 
+</pre>
 
 ## Hotkeys
 
