@@ -10,14 +10,14 @@ il file sources.list ed aggiungiamo la riga relativa a sid nel mio caso utilizza
 \n
 A questo punto andiamo a creare un file con un editor di testo dentro /etc/apt/ e lo 
 chiamiamo preferences, nel file dobbiamo scrivere esattamente quanto segue: \n
-```
+<pre>
     Package: * 
     Pin: release a=stable 
     Pin-Priority: 200 
     Package: * 
     Pin: release a=unstable 
     Pin-Priority: -10 
-```
+</pre>
 \n
 E salviamo, a questo punto diamo un bel **sudo apt-get update && sudo apt-get upgrade** per esser sicuri 
 che tutto sia funzionante non dovreste ricevere aggiornamenti. \n
@@ -35,11 +35,11 @@ quella di sid ma bensì quella di squeeze questa non verrà aggiornata (a meno c
 
 Per semplificarci la vita possiamo tranquillamente scriptarci l'ultima parte creando ad esempio un file in /usr/bin/ 
 chiamato installa a questo punto dentro ci scriviamo: \n
-```
+<pre>
     #! /bin/bash 
     repo=unstable 
     sudo apt-get -t $repo install $@ 
-```
+</pre>
 \n
 Salviamo e diamo da root il comando \n
 ```
@@ -58,10 +58,10 @@ oppure \n
 \n
 Giocando con il file preferences è inoltre possibile specificare per ogni pacchetto la fonte da cui andarlo a pescare 
 potremmo ad esempio voler che less venga sempre preso da unstable in questo caso dovremo aggiungere al file preferences semplicemente: \n
-```
+<pre>
     Package: less 
     Pin: release a=unstable 
     Pin-Priority: 300 
-```
+</pre>
 \n
 E il gioco è fatto.
