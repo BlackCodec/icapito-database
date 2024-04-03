@@ -1,0 +1,7 @@
+{
+    "content": "${file:microterm-20.txt}",
+    "template": "article",
+    "title": "Microterm 2.0",
+    "type": "markdown",
+    "description": "Seconda relase per microterm (µterm), un semplice emulatore di terminale basato su VTE e scritto in C che sfrutta le librerie grafiche GTK."
+}
