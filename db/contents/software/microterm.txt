@@ -65,5 +65,6 @@ Nel file di configurazione di esempio &egrave; stato associato il tasto *F2* all
 [Repository](https://github.com/BlackCodec/microterm)
 
 ## Rilasci:
-[2.0](${site_url}/articles/2024/04/03/microterm-20) - 03/04/2024
-[1.0](${site_url}/articles/2024/03/14/microterm-10) - 14/03/2024
+
+ - [2.0](${site_url}/articles/2024/04/03/microterm-20) (03/04/2024)
+ - [1.0](${site_url}/articles/2024/03/14/microterm-10) (14/03/2024)
