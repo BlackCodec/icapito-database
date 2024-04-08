@@ -1,702 +1,290 @@
---> INIZIO Wed Apr  3 08:23:40 UTC 2024
+--> INIZIO Mon Apr  8 14:00:58 UTC 2024
 File esistente, rimozione linea
-Raw filename: ./articles/2023/05/03/site2app.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2023/05/03/site2app
- --x Trovato: https://www.icapito.it/articles/2023/05/03/site2app
-<loc>https://www.icapito.it/articles/2023/05/03/site2app</loc>
- --x
-Raw filename: ./articles/2023/05/04/mywhatsappweb.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2023/05/04/mywhatsappweb
- --x Trovato: https://www.icapito.it/articles/2023/05/04/mywhatsappweb
-<loc>https://www.icapito.it/articles/2023/05/04/mywhatsappweb</loc>
- --x
-Raw filename: ./articles/2023/01/25/void-scripts.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2023/01/25/void-scripts
- --x Trovato: https://www.icapito.it/articles/2023/01/25/void-scripts
-<loc>https://www.icapito.it/articles/2023/01/25/void-scripts</loc>
- --x
-Raw filename: ./articles/2023/12/13/valaotp.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2023/12/13/valaotp
- --x Trovato: https://www.icapito.it/articles/2023/12/13/valaotp
-<loc>https://www.icapito.it/articles/2023/12/13/valaotp</loc>
- --x
-Raw filename: ./articles/2023/04/26/java-restclient.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2023/04/26/java-restclient
- --x Trovato: https://www.icapito.it/articles/2023/04/26/java-restclient
-<loc>https://www.icapito.it/articles/2023/04/26/java-restclient</loc>
- --x
-Raw filename: ./articles/2023/04/25/java-jsonservice.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2023/04/25/java-jsonservice
- --x Trovato: https://www.icapito.it/articles/2023/04/25/java-jsonservice
-<loc>https://www.icapito.it/articles/2023/04/25/java-jsonservice</loc>
- --x
-Raw filename: ./articles/2018/04/28/advancedrun-11.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2018/04/28/advancedrun-11
- --x Trovato: https://www.icapito.it/articles/2018/04/28/advancedrun-11
-<loc>https://www.icapito.it/articles/2018/04/28/advancedrun-11</loc>
- --x
-Raw filename: ./articles/2018/04/29/advancedrun-12.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2018/04/29/advancedrun-12
- --x Trovato: https://www.icapito.it/articles/2018/04/29/advancedrun-12
-<loc>https://www.icapito.it/articles/2018/04/29/advancedrun-12</loc>
- --x
-Raw filename: ./articles/2018/04/22/advancedrun-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2018/04/22/advancedrun-10
- --x Trovato: https://www.icapito.it/articles/2018/04/22/advancedrun-10
-<loc>https://www.icapito.it/articles/2018/04/22/advancedrun-10</loc>
- --x
-Raw filename: ./articles/2013/11/21/blackcrypttool-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/11/21/blackcrypttool-10
- --x Trovato: https://www.icapito.it/articles/2013/11/21/blackcrypttool-10
-<loc>https://www.icapito.it/articles/2013/11/21/blackcrypttool-10</loc>
- --x
-Raw filename: ./articles/2013/01/14/pinger-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/01/14/pinger-10
- --x Trovato: https://www.icapito.it/articles/2013/01/14/pinger-10
-<loc>https://www.icapito.it/articles/2013/01/14/pinger-10</loc>
- --x
-Raw filename: ./articles/2013/09/11/archsoluzionelxdmautologin.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/09/11/archsoluzionelxdmautologin
- --x Trovato: https://www.icapito.it/articles/2013/09/11/archsoluzionelxdmautologin
-<loc>https://www.icapito.it/articles/2013/09/11/archsoluzionelxdmautologin</loc>
- --x
-Raw filename: ./articles/2013/09/09/debianservervirtualbox.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/09/09/debianservervirtualbox
- --x Trovato: https://www.icapito.it/articles/2013/09/09/debianservervirtualbox
-<loc>https://www.icapito.it/articles/2013/09/09/debianservervirtualbox</loc>
- --x
-Raw filename: ./articles/2013/09/18/iis5o6smtpnotvisible.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/09/18/iis5o6smtpnotvisible
- --x Trovato: https://www.icapito.it/articles/2013/09/18/iis5o6smtpnotvisible
-<loc>https://www.icapito.it/articles/2013/09/18/iis5o6smtpnotvisible</loc>
- --x
-Raw filename: ./articles/2013/09/10/checkdnsrecord-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/09/10/checkdnsrecord-10
- --x Trovato: https://www.icapito.it/articles/2013/09/10/checkdnsrecord-10
-<loc>https://www.icapito.it/articles/2013/09/10/checkdnsrecord-10</loc>
- --x
-Raw filename: ./articles/2013/09/10/checkreversedns-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/09/10/checkreversedns-10
- --x Trovato: https://www.icapito.it/articles/2013/09/10/checkreversedns-10
-<loc>https://www.icapito.it/articles/2013/09/10/checkreversedns-10</loc>
- --x
-Raw filename: ./articles/2013/08/28/checkdns-11.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/08/28/checkdns-11
- --x Trovato: https://www.icapito.it/articles/2013/08/28/checkdns-11
-<loc>https://www.icapito.it/articles/2013/08/28/checkdns-11</loc>
- --x
-Raw filename: ./articles/2013/10/02/advancedcopymovefilecommand-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2013/10/02/advancedcopymovefilecommand-10
- --x Trovato: https://www.icapito.it/articles/2013/10/02/advancedcopymovefilecommand-10
-<loc>https://www.icapito.it/articles/2013/10/02/advancedcopymovefilecommand-10</loc>
- --x
-Raw filename: ./articles/2010/07/04/ftpdarigadicomando.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/07/04/ftpdarigadicomando
- --x Trovato: https://www.icapito.it/articles/2010/07/04/ftpdarigadicomando
-<loc>https://www.icapito.it/articles/2010/07/04/ftpdarigadicomando</loc>
- --x
-Raw filename: ./articles/2010/07/02/backuptramitexcopy.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/07/02/backuptramitexcopy
- --x Trovato: https://www.icapito.it/articles/2010/07/02/backuptramitexcopy
-<loc>https://www.icapito.it/articles/2010/07/02/backuptramitexcopy</loc>
- --x
-Raw filename: ./articles/2010/11/26/convertiinntfs-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/11/26/convertiinntfs-10
- --x Trovato: https://www.icapito.it/articles/2010/11/26/convertiinntfs-10
-<loc>https://www.icapito.it/articles/2010/11/26/convertiinntfs-10</loc>
- --x
-Raw filename: ./articles/2010/11/26/windowsxpupdatefix-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/11/26/windowsxpupdatefix-10
- --x Trovato: https://www.icapito.it/articles/2010/11/26/windowsxpupdatefix-10
-<loc>https://www.icapito.it/articles/2010/11/26/windowsxpupdatefix-10</loc>
- --x
-Raw filename: ./articles/2010/11/05/isafilterbuilder-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/11/05/isafilterbuilder-10
- --x Trovato: https://www.icapito.it/articles/2010/11/05/isafilterbuilder-10
-<loc>https://www.icapito.it/articles/2010/11/05/isafilterbuilder-10</loc>
- --x
-Raw filename: ./articles/2010/11/15/assistenzaremota-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/11/15/assistenzaremota-10
- --x Trovato: https://www.icapito.it/articles/2010/11/15/assistenzaremota-10
-<loc>https://www.icapito.it/articles/2010/11/15/assistenzaremota-10</loc>
- --x
-Raw filename: ./articles/2010/10/21/espanderefilevhd.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/10/21/espanderefilevhd
- --x Trovato: https://www.icapito.it/articles/2010/10/21/espanderefilevhd
-<loc>https://www.icapito.it/articles/2010/10/21/espanderefilevhd</loc>
- --x
-Raw filename: ./articles/2010/10/21/espanderefilevmdk.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/10/21/espanderefilevmdk
- --x Trovato: https://www.icapito.it/articles/2010/10/21/espanderefilevmdk
-<loc>https://www.icapito.it/articles/2010/10/21/espanderefilevmdk</loc>
- --x
-Raw filename: ./articles/2010/10/20/rubricasemplice-11.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/10/20/rubricasemplice-11
- --x Trovato: https://www.icapito.it/articles/2010/10/20/rubricasemplice-11
-<loc>https://www.icapito.it/articles/2010/10/20/rubricasemplice-11</loc>
- --x
-Raw filename: ./articles/2010/10/04/mysqlwindowsfailovercluster.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/10/04/mysqlwindowsfailovercluster
- --x Trovato: https://www.icapito.it/articles/2010/10/04/mysqlwindowsfailovercluster
-<loc>https://www.icapito.it/articles/2010/10/04/mysqlwindowsfailovercluster</loc>
- --x
-Raw filename: ./articles/2010/10/22/gfifaxmakererrore1701.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2010/10/22/gfifaxmakererrore1701
- --x Trovato: https://www.icapito.it/articles/2010/10/22/gfifaxmakererrore1701
-<loc>https://www.icapito.it/articles/2010/10/22/gfifaxmakererrore1701</loc>
- --x
-Raw filename: ./articles/2021/10/25/hidetitlesmod-103.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2021/10/25/hidetitlesmod-103
- --x Trovato: https://www.icapito.it/articles/2021/10/25/hidetitlesmod-103
-<loc>https://www.icapito.it/articles/2021/10/25/hidetitlesmod-103</loc>
- --x
-Raw filename: ./articles/2011/07/26/openwith-101.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/07/26/openwith-101
- --x Trovato: https://www.icapito.it/articles/2011/07/26/openwith-101
-<loc>https://www.icapito.it/articles/2011/07/26/openwith-101</loc>
- --x
-Raw filename: ./articles/2011/07/12/testmysite-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/07/12/testmysite-10
- --x Trovato: https://www.icapito.it/articles/2011/07/12/testmysite-10
-<loc>https://www.icapito.it/articles/2011/07/12/testmysite-10</loc>
- --x
-Raw filename: ./articles/2011/07/06/managerdptime-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/07/06/managerdptime-10
- --x Trovato: https://www.icapito.it/articles/2011/07/06/managerdptime-10
-<loc>https://www.icapito.it/articles/2011/07/06/managerdptime-10</loc>
- --x
-Raw filename: ./articles/2011/05/30/myfilescatalog-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/05/30/myfilescatalog-10
- --x Trovato: https://www.icapito.it/articles/2011/05/30/myfilescatalog-10
-<loc>https://www.icapito.it/articles/2011/05/30/myfilescatalog-10</loc>
- --x
-Raw filename: ./articles/2011/03/10/runasbuilder-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/03/10/runasbuilder-10
- --x Trovato: https://www.icapito.it/articles/2011/03/10/runasbuilder-10
-<loc>https://www.icapito.it/articles/2011/03/10/runasbuilder-10</loc>
- --x
-Raw filename: ./articles/2011/12/17/anticicio-20.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/12/17/anticicio-20
- --x Trovato: https://www.icapito.it/articles/2011/12/17/anticicio-20
-<loc>https://www.icapito.it/articles/2011/12/17/anticicio-20</loc>
- --x
-Raw filename: ./articles/2011/06/03/mysqlbackupdb-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/06/03/mysqlbackupdb-10
- --x Trovato: https://www.icapito.it/articles/2011/06/03/mysqlbackupdb-10
-<loc>https://www.icapito.it/articles/2011/06/03/mysqlbackupdb-10</loc>
- --x
-Raw filename: ./articles/2011/06/04/impostazioniproxy-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/06/04/impostazioniproxy-10
- --x Trovato: https://www.icapito.it/articles/2011/06/04/impostazioniproxy-10
-<loc>https://www.icapito.it/articles/2011/06/04/impostazioniproxy-10</loc>
- --x
-Raw filename: ./articles/2011/06/04/largefilereader-201.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2011/06/04/largefilereader-201
- --x Trovato: https://www.icapito.it/articles/2011/06/04/largefilereader-201
-<loc>https://www.icapito.it/articles/2011/06/04/largefilereader-201</loc>
- --x
-Raw filename: ./articles/2022/11/25/jwmscripts.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2022/11/25/jwmscripts
- --x Trovato: https://www.icapito.it/articles/2022/11/25/jwmscripts
-<loc>https://www.icapito.it/articles/2022/11/25/jwmscripts</loc>
- --x
-Raw filename: ./articles/2022/12/19/myexit-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2022/12/19/myexit-10
- --x Trovato: https://www.icapito.it/articles/2022/12/19/myexit-10
-<loc>https://www.icapito.it/articles/2022/12/19/myexit-10</loc>
- --x
-Raw filename: ./articles/2022/09/14/uat-javascript-blog-11.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2022/09/14/uat-javascript-blog-11
- --x Trovato: https://www.icapito.it/articles/2022/09/14/uat-javascript-blog-11
-<loc>https://www.icapito.it/articles/2022/09/14/uat-javascript-blog-11</loc>
- --x
-Raw filename: ./articles/2022/06/12/sswb.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2022/06/12/sswb
- --x Trovato: https://www.icapito.it/articles/2022/06/12/sswb
-<loc>https://www.icapito.it/articles/2022/06/12/sswb</loc>
- --x
-Raw filename: ./articles/2022/10/16/menugenerator-11.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2022/10/16/menugenerator-11
- --x Trovato: https://www.icapito.it/articles/2022/10/16/menugenerator-11
-<loc>https://www.icapito.it/articles/2022/10/16/menugenerator-11</loc>
- --x
-Raw filename: ./articles/2024/01/05/anno-nuovo.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/01/05/anno-nuovo
- --x Trovato: https://www.icapito.it/articles/2024/01/05/anno-nuovo
-<loc>https://www.icapito.it/articles/2024/01/05/anno-nuovo</loc>
- --x
-Raw filename: ./articles/2024/01/15/q4os-trinity.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/01/15/q4os-trinity
- --x Trovato: https://www.icapito.it/articles/2024/01/15/q4os-trinity
-<loc>https://www.icapito.it/articles/2024/01/15/q4os-trinity</loc>
- --x
-Raw filename: ./articles/2024/01/10/sono-ancora-qua.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/01/10/sono-ancora-qua
- --x Trovato: https://www.icapito.it/articles/2024/01/10/sono-ancora-qua
-<loc>https://www.icapito.it/articles/2024/01/10/sono-ancora-qua</loc>
- --x
-Raw filename: ./articles/2024/03/14/microterm-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/03/14/microterm-10
- --x Trovato: https://www.icapito.it/articles/2024/03/14/microterm-10
-<loc>https://www.icapito.it/articles/2024/03/14/microterm-10</loc>
- --x
-Raw filename: ./articles/2024/03/13/linuxlite-xfce.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/03/13/linuxlite-xfce
- --x Trovato: https://www.icapito.it/articles/2024/03/13/linuxlite-xfce
-<loc>https://www.icapito.it/articles/2024/03/13/linuxlite-xfce</loc>
- --x
-Raw filename: ./articles/2024/04/03/microterm-20.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/04/03/microterm-20
- --> Aggiungo: https://www.icapito.it/articles/2024/04/03/microterm-20
-Raw filename: ./articles/2024/02/07/fedora-lxqt-lxde.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde
- --x Trovato: https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde
-<loc>https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde</loc>
- --x
-Raw filename: ./articles/2024/02/15/container-manager.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2024/02/15/container-manager
- --x Trovato: https://www.icapito.it/articles/2024/02/15/container-manager
-<loc>https://www.icapito.it/articles/2024/02/15/container-manager</loc>
- --x
-Raw filename: ./articles/2017/02/01/middlemousemenu-20.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2017/02/01/middlemousemenu-20
- --x Trovato: https://www.icapito.it/articles/2017/02/01/middlemousemenu-20
-<loc>https://www.icapito.it/articles/2017/02/01/middlemousemenu-20</loc>
- --x
-Raw filename: ./articles/2017/09/23/jwmappmenugen-081.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2017/09/23/jwmappmenugen-081
- --x Trovato: https://www.icapito.it/articles/2017/09/23/jwmappmenugen-081
-<loc>https://www.icapito.it/articles/2017/09/23/jwmappmenugen-081</loc>
- --x
-Raw filename: ./articles/2017/10/15/mycustomstarts-11.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2017/10/15/mycustomstarts-11
- --x Trovato: https://www.icapito.it/articles/2017/10/15/mycustomstarts-11
-<loc>https://www.icapito.it/articles/2017/10/15/mycustomstarts-11</loc>
- --x
-Raw filename: ./articles/2015/05/27/coreosinstallazione.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/05/27/coreosinstallazione
- --x Trovato: https://www.icapito.it/articles/2015/05/27/coreosinstallazione
-<loc>https://www.icapito.it/articles/2015/05/27/coreosinstallazione</loc>
- --x
-Raw filename: ./articles/2015/12/28/debianjessieservernas.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/12/28/debianjessieservernas
- --x Trovato: https://www.icapito.it/articles/2015/12/28/debianjessieservernas
-<loc>https://www.icapito.it/articles/2015/12/28/debianjessieservernas</loc>
- --x
-Raw filename: ./articles/2015/12/27/debianjessieinstallazionebase.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieinstallazionebase
- --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieinstallazionebase
-<loc>https://www.icapito.it/articles/2015/12/27/debianjessieinstallazionebase</loc>
- --x
-Raw filename: ./articles/2015/12/27/debianjessieserverftp.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieserverftp
- --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieserverftp
-<loc>https://www.icapito.it/articles/2015/12/27/debianjessieserverftp</loc>
- --x
-Raw filename: ./articles/2015/12/27/debianjessieserversamba.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieserversamba
- --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieserversamba
-<loc>https://www.icapito.it/articles/2015/12/27/debianjessieserversamba</loc>
- --x
-Raw filename: ./articles/2015/12/27/debianenablesshroot.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/12/27/debianenablesshroot
- --x Trovato: https://www.icapito.it/articles/2015/12/27/debianenablesshroot
-<loc>https://www.icapito.it/articles/2015/12/27/debianenablesshroot</loc>
- --x
-Raw filename: ./articles/2015/12/27/debianjessieservernfs.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieservernfs
- --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieservernfs
-<loc>https://www.icapito.it/articles/2015/12/27/debianjessieservernfs</loc>
- --x
-Raw filename: ./articles/2015/12/27/debianvggrouplvm.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/12/27/debianvggrouplvm
- --x Trovato: https://www.icapito.it/articles/2015/12/27/debianvggrouplvm
-<loc>https://www.icapito.it/articles/2015/12/27/debianvggrouplvm</loc>
- --x
-Raw filename: ./articles/2015/06/03/coreosanalisifileconf2.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2015/06/03/coreosanalisifileconf2
- --x Trovato: https://www.icapito.it/articles/2015/06/03/coreosanalisifileconf2
-<loc>https://www.icapito.it/articles/2015/06/03/coreosanalisifileconf2</loc>
- --x
-Raw filename: ./articles/2012/05/04/bloccopopup-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2012/05/04/bloccopopup-10
- --x Trovato: https://www.icapito.it/articles/2012/05/04/bloccopopup-10
-<loc>https://www.icapito.it/articles/2012/05/04/bloccopopup-10</loc>
- --x
-Raw filename: ./articles/2012/01/21/packardbellsocial-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2012/01/21/packardbellsocial-10
- --x Trovato: https://www.icapito.it/articles/2012/01/21/packardbellsocial-10
-<loc>https://www.icapito.it/articles/2012/01/21/packardbellsocial-10</loc>
- --x
-Raw filename: ./articles/2012/01/21/middlemousemenu-10.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2012/01/21/middlemousemenu-10
- --x Trovato: https://www.icapito.it/articles/2012/01/21/middlemousemenu-10
-<loc>https://www.icapito.it/articles/2012/01/21/middlemousemenu-10</loc>
- --x
-Raw filename: ./articles/2012/01/04/impostazioniproxy-20.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2012/01/04/impostazioniproxy-20
- --x Trovato: https://www.icapito.it/articles/2012/01/04/impostazioniproxy-20
-<loc>https://www.icapito.it/articles/2012/01/04/impostazioniproxy-20</loc>
- --x
-Raw filename: ./articles/2012/03/15/packardbellsocial-11.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2012/03/15/packardbellsocial-11
- --x Trovato: https://www.icapito.it/articles/2012/03/15/packardbellsocial-11
-<loc>https://www.icapito.it/articles/2012/03/15/packardbellsocial-11</loc>
- --x
-Raw filename: ./articles/2012/08/20/debiansqueezepacchettisid.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/articles/2012/08/20/debiansqueezepacchettisid
- --x Trovato: https://www.icapito.it/articles/2012/08/20/debiansqueezepacchettisid
-<loc>https://www.icapito.it/articles/2012/08/20/debiansqueezepacchettisid</loc>
- --x
-Raw filename: ./notizie.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/notizie
- --x Trovato: https://www.icapito.it/notizie
-<loc>https://www.icapito.it/notizie</loc>
- --x
-Raw filename: ./error.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/error
- --x Trovato: https://www.icapito.it/error
-<loc>https://www.icapito.it/error</loc>
- --x
-Raw filename: ./404.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/404
- --x Trovato: https://www.icapito.it/404
-<loc>https://www.icapito.it/404</loc>
- --x
-Raw filename: ./home.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/home
- --x Trovato: https://www.icapito.it/home
-<loc>https://www.icapito.it/home</loc>
- --x
-Raw filename: ./about.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/about
- --x Trovato: https://www.icapito.it/about
-<loc>https://www.icapito.it/about</loc>
- --x
-Raw filename: ./cookie.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/cookie
- --x Trovato: https://www.icapito.it/cookie
-<loc>https://www.icapito.it/cookie</loc>
+Raw filename: ./menu.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/menu
+ --x Trovato: https://www.icapito.it/menu
+<loc>https://www.icapito.it/menu</loc>
+ --x
+Raw filename: ./software/sswb.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/sswb
+ --x Trovato: https://www.icapito.it/software/sswb
+<loc>https://www.icapito.it/software/sswb</loc>
+ --x
+Raw filename: ./software/hidetitlesmod.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/hidetitlesmod
+ --x Trovato: https://www.icapito.it/software/hidetitlesmod
+<loc>https://www.icapito.it/software/hidetitlesmod</loc>
+ --x
+Raw filename: ./software/mywhatsappweb.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/mywhatsappweb
+ --x Trovato: https://www.icapito.it/software/mywhatsappweb
+<loc>https://www.icapito.it/software/mywhatsappweb</loc>
+ --x
+Raw filename: ./software/java-restclient.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/java-restclient
+ --x Trovato: https://www.icapito.it/software/java-restclient
+<loc>https://www.icapito.it/software/java-restclient</loc>
+ --x
+Raw filename: ./software/assistenzaremota.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/assistenzaremota
+ --x Trovato: https://www.icapito.it/software/assistenzaremota
+<loc>https://www.icapito.it/software/assistenzaremota</loc>
+ --x
+Raw filename: ./software/impostazioniproxy.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/impostazioniproxy
+ --x Trovato: https://www.icapito.it/software/impostazioniproxy
+<loc>https://www.icapito.it/software/impostazioniproxy</loc>
+ --x
+Raw filename: ./software/mysqlbackupdb.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/mysqlbackupdb
+ --x Trovato: https://www.icapito.it/software/mysqlbackupdb
+<loc>https://www.icapito.it/software/mysqlbackupdb</loc>
+ --x
+Raw filename: ./software/myexit.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/myexit
+ --x Trovato: https://www.icapito.it/software/myexit
+<loc>https://www.icapito.it/software/myexit</loc>
+ --x
+Raw filename: ./software/jwmscripts.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/jwmscripts
+ --x Trovato: https://www.icapito.it/software/jwmscripts
+<loc>https://www.icapito.it/software/jwmscripts</loc>
+ --x
+Raw filename: ./software/valaotp.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/valaotp
+ --x Trovato: https://www.icapito.it/software/valaotp
+<loc>https://www.icapito.it/software/valaotp</loc>
+ --x
+Raw filename: ./software/menugenerator.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/menugenerator
+ --x Trovato: https://www.icapito.it/software/menugenerator
+<loc>https://www.icapito.it/software/menugenerator</loc>
+ --x
+Raw filename: ./software/packardbellsocial.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/packardbellsocial
+ --x Trovato: https://www.icapito.it/software/packardbellsocial
+<loc>https://www.icapito.it/software/packardbellsocial</loc>
+ --x
+Raw filename: ./software/site2app.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/site2app
+ --x Trovato: https://www.icapito.it/software/site2app
+<loc>https://www.icapito.it/software/site2app</loc>
+ --x
+Raw filename: ./software/largefilereader.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/largefilereader
+ --x Trovato: https://www.icapito.it/software/largefilereader
+<loc>https://www.icapito.it/software/largefilereader</loc>
+ --x
+Raw filename: ./software/container-manager.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/container-manager
+ --x Trovato: https://www.icapito.it/software/container-manager
+<loc>https://www.icapito.it/software/container-manager</loc>
+ --x
+Raw filename: ./software/testmysite.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/testmysite
+ --x Trovato: https://www.icapito.it/software/testmysite
+<loc>https://www.icapito.it/software/testmysite</loc>
+ --x
+Raw filename: ./software/bloccopopup.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/bloccopopup
+ --x Trovato: https://www.icapito.it/software/bloccopopup
+<loc>https://www.icapito.it/software/bloccopopup</loc>
+ --x
+Raw filename: ./software/uat-javascript-blog.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/uat-javascript-blog
+ --x Trovato: https://www.icapito.it/software/uat-javascript-blog
+<loc>https://www.icapito.it/software/uat-javascript-blog</loc>
+ --x
+Raw filename: ./software/advancedrun.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/advancedrun
+ --x Trovato: https://www.icapito.it/software/advancedrun
+<loc>https://www.icapito.it/software/advancedrun</loc>
+ --x
+Raw filename: ./software/checkdnsrecord.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/checkdnsrecord
+ --x Trovato: https://www.icapito.it/software/checkdnsrecord
+<loc>https://www.icapito.it/software/checkdnsrecord</loc>
+ --x
+Raw filename: ./software/rubricasemplice.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/rubricasemplice
+ --x Trovato: https://www.icapito.it/software/rubricasemplice
+<loc>https://www.icapito.it/software/rubricasemplice</loc>
+ --x
+Raw filename: ./software/microterm.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/microterm
+ --x Trovato: https://www.icapito.it/software/microterm
+<loc>https://www.icapito.it/software/microterm</loc>
+ --x
+Raw filename: ./software/openwith.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/openwith
+ --x Trovato: https://www.icapito.it/software/openwith
+<loc>https://www.icapito.it/software/openwith</loc>
+ --x
+Raw filename: ./software/convertiinntfs.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/convertiinntfs
+ --x Trovato: https://www.icapito.it/software/convertiinntfs
+<loc>https://www.icapito.it/software/convertiinntfs</loc>
+ --x
+Raw filename: ./software/advancedcopymovefilecommand.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/advancedcopymovefilecommand
+ --x Trovato: https://www.icapito.it/software/advancedcopymovefilecommand
+<loc>https://www.icapito.it/software/advancedcopymovefilecommand</loc>
+ --x
+Raw filename: ./software/middlemousemenu.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/middlemousemenu
+ --x Trovato: https://www.icapito.it/software/middlemousemenu
+<loc>https://www.icapito.it/software/middlemousemenu</loc>
+ --x
+Raw filename: ./software/java-jsonservice.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/java-jsonservice
+ --x Trovato: https://www.icapito.it/software/java-jsonservice
+<loc>https://www.icapito.it/software/java-jsonservice</loc>
+ --x
+Raw filename: ./software/mycustomstarts.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/mycustomstarts
+ --x Trovato: https://www.icapito.it/software/mycustomstarts
+<loc>https://www.icapito.it/software/mycustomstarts</loc>
+ --x
+Raw filename: ./software/windowsxpupdatefix.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/windowsxpupdatefix
+ --x Trovato: https://www.icapito.it/software/windowsxpupdatefix
+<loc>https://www.icapito.it/software/windowsxpupdatefix</loc>
  --x
 Raw filename: ./software/checkdns.json
- - Mod: 2024-04-03
+ - Mod: 2024-04-08
  - Loc: https://www.icapito.it/software/checkdns
  --x Trovato: https://www.icapito.it/software/checkdns
 <loc>https://www.icapito.it/software/checkdns</loc>
 <loc>https://www.icapito.it/software/checkdnsrecord</loc>
  --x
-Raw filename: ./software/mycustomstarts.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/mycustomstarts
- --x Trovato: https://www.icapito.it/software/mycustomstarts
-<loc>https://www.icapito.it/software/mycustomstarts</loc>
- --x
-Raw filename: ./software/advancedcopymovefilecommand.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/advancedcopymovefilecommand
- --x Trovato: https://www.icapito.it/software/advancedcopymovefilecommand
-<loc>https://www.icapito.it/software/advancedcopymovefilecommand</loc>
- --x
-Raw filename: ./software/rubricasemplice.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/rubricasemplice
- --x Trovato: https://www.icapito.it/software/rubricasemplice
-<loc>https://www.icapito.it/software/rubricasemplice</loc>
- --x
-Raw filename: ./software/container-manager.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/container-manager
- --x Trovato: https://www.icapito.it/software/container-manager
-<loc>https://www.icapito.it/software/container-manager</loc>
- --x
-Raw filename: ./software/myfilescatalog.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/myfilescatalog
- --x Trovato: https://www.icapito.it/software/myfilescatalog
-<loc>https://www.icapito.it/software/myfilescatalog</loc>
- --x
-Raw filename: ./software/impostazioniproxy.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/impostazioniproxy
- --x Trovato: https://www.icapito.it/software/impostazioniproxy
-<loc>https://www.icapito.it/software/impostazioniproxy</loc>
- --x
-Raw filename: ./software/jwmscripts.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/jwmscripts
- --x Trovato: https://www.icapito.it/software/jwmscripts
-<loc>https://www.icapito.it/software/jwmscripts</loc>
- --x
-Raw filename: ./software/assistenzaremota.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/assistenzaremota
- --x Trovato: https://www.icapito.it/software/assistenzaremota
-<loc>https://www.icapito.it/software/assistenzaremota</loc>
- --x
-Raw filename: ./software/site2app.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/site2app
- --x Trovato: https://www.icapito.it/software/site2app
-<loc>https://www.icapito.it/software/site2app</loc>
- --x
-Raw filename: ./software/mywhatsappweb.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/mywhatsappweb
- --x Trovato: https://www.icapito.it/software/mywhatsappweb
-<loc>https://www.icapito.it/software/mywhatsappweb</loc>
- --x
-Raw filename: ./software/blackcrypttool.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/blackcrypttool
- --x Trovato: https://www.icapito.it/software/blackcrypttool
-<loc>https://www.icapito.it/software/blackcrypttool</loc>
- --x
-Raw filename: ./software/hidetitlesmod.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/hidetitlesmod
- --x Trovato: https://www.icapito.it/software/hidetitlesmod
-<loc>https://www.icapito.it/software/hidetitlesmod</loc>
- --x
-Raw filename: ./software/convertiinntfs.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/convertiinntfs
- --x Trovato: https://www.icapito.it/software/convertiinntfs
-<loc>https://www.icapito.it/software/convertiinntfs</loc>
- --x
-Raw filename: ./software/middlemousemenu.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/middlemousemenu
- --x Trovato: https://www.icapito.it/software/middlemousemenu
-<loc>https://www.icapito.it/software/middlemousemenu</loc>
- --x
-Raw filename: ./software/mysqlbackupdb.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/mysqlbackupdb
- --x Trovato: https://www.icapito.it/software/mysqlbackupdb
-<loc>https://www.icapito.it/software/mysqlbackupdb</loc>
- --x
-Raw filename: ./software/advancedrun.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/advancedrun
- --x Trovato: https://www.icapito.it/software/advancedrun
-<loc>https://www.icapito.it/software/advancedrun</loc>
- --x
-Raw filename: ./software/largefilereader.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/largefilereader
- --x Trovato: https://www.icapito.it/software/largefilereader
-<loc>https://www.icapito.it/software/largefilereader</loc>
- --x
 Raw filename: ./software/runasbuilder.json
- - Mod: 2024-04-03
+ - Mod: 2024-04-08
  - Loc: https://www.icapito.it/software/runasbuilder
  --x Trovato: https://www.icapito.it/software/runasbuilder
 <loc>https://www.icapito.it/software/runasbuilder</loc>
  --x
-Raw filename: ./software/isafilterbuilder.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/isafilterbuilder
- --x Trovato: https://www.icapito.it/software/isafilterbuilder
-<loc>https://www.icapito.it/software/isafilterbuilder</loc>
- --x
-Raw filename: ./software/testmysite.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/testmysite
- --x Trovato: https://www.icapito.it/software/testmysite
-<loc>https://www.icapito.it/software/testmysite</loc>
+Raw filename: ./software/blackcrypttool.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/blackcrypttool
+ --x Trovato: https://www.icapito.it/software/blackcrypttool
+<loc>https://www.icapito.it/software/blackcrypttool</loc>
  --x
 Raw filename: ./software/checkreversedns.json
- - Mod: 2024-04-03
+ - Mod: 2024-04-08
  - Loc: https://www.icapito.it/software/checkreversedns
  --x Trovato: https://www.icapito.it/software/checkreversedns
 <loc>https://www.icapito.it/software/checkreversedns</loc>
  --x
-Raw filename: ./software/java-jsonservice.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/java-jsonservice
- --x Trovato: https://www.icapito.it/software/java-jsonservice
-<loc>https://www.icapito.it/software/java-jsonservice</loc>
- --x
-Raw filename: ./software/pinger.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/pinger
- --x Trovato: https://www.icapito.it/software/pinger
-<loc>https://www.icapito.it/software/pinger</loc>
- --x
-Raw filename: ./software/packardbellsocial.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/packardbellsocial
- --x Trovato: https://www.icapito.it/software/packardbellsocial
-<loc>https://www.icapito.it/software/packardbellsocial</loc>
- --x
-Raw filename: ./software/myexit.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/myexit
- --x Trovato: https://www.icapito.it/software/myexit
-<loc>https://www.icapito.it/software/myexit</loc>
- --x
-Raw filename: ./software/windowsxpupdatefix.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/windowsxpupdatefix
- --x Trovato: https://www.icapito.it/software/windowsxpupdatefix
-<loc>https://www.icapito.it/software/windowsxpupdatefix</loc>
- --x
-Raw filename: ./software/anticicio.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/anticicio
- --x Trovato: https://www.icapito.it/software/anticicio
-<loc>https://www.icapito.it/software/anticicio</loc>
- --x
 Raw filename: ./software/managerdptime.json
- - Mod: 2024-04-03
+ - Mod: 2024-04-08
  - Loc: https://www.icapito.it/software/managerdptime
  --x Trovato: https://www.icapito.it/software/managerdptime
 <loc>https://www.icapito.it/software/managerdptime</loc>
  --x
-Raw filename: ./software/sswb.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/sswb
- --x Trovato: https://www.icapito.it/software/sswb
-<loc>https://www.icapito.it/software/sswb</loc>
+Raw filename: ./software/pinger.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/pinger
+ --x Trovato: https://www.icapito.it/software/pinger
+<loc>https://www.icapito.it/software/pinger</loc>
  --x
-Raw filename: ./software/menugenerator.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/menugenerator
- --x Trovato: https://www.icapito.it/software/menugenerator
-<loc>https://www.icapito.it/software/menugenerator</loc>
+Raw filename: ./software/isafilterbuilder.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/isafilterbuilder
+ --x Trovato: https://www.icapito.it/software/isafilterbuilder
+<loc>https://www.icapito.it/software/isafilterbuilder</loc>
  --x
-Raw filename: ./software/uat-javascript-blog.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/uat-javascript-blog
- --x Trovato: https://www.icapito.it/software/uat-javascript-blog
-<loc>https://www.icapito.it/software/uat-javascript-blog</loc>
+Raw filename: ./software/anticicio.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/anticicio
+ --x Trovato: https://www.icapito.it/software/anticicio
+<loc>https://www.icapito.it/software/anticicio</loc>
  --x
-Raw filename: ./software/java-restclient.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/java-restclient
- --x Trovato: https://www.icapito.it/software/java-restclient
-<loc>https://www.icapito.it/software/java-restclient</loc>
- --x
-Raw filename: ./software/valaotp.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/valaotp
- --x Trovato: https://www.icapito.it/software/valaotp
-<loc>https://www.icapito.it/software/valaotp</loc>
- --x
-Raw filename: ./software/checkdnsrecord.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/checkdnsrecord
- --x Trovato: https://www.icapito.it/software/checkdnsrecord
-<loc>https://www.icapito.it/software/checkdnsrecord</loc>
- --x
-Raw filename: ./software/bloccopopup.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/bloccopopup
- --x Trovato: https://www.icapito.it/software/bloccopopup
-<loc>https://www.icapito.it/software/bloccopopup</loc>
- --x
-Raw filename: ./software/openwith.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/openwith
- --x Trovato: https://www.icapito.it/software/openwith
-<loc>https://www.icapito.it/software/openwith</loc>
- --x
-Raw filename: ./software/microterm.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/software/microterm
- --x Trovato: https://www.icapito.it/software/microterm
-<loc>https://www.icapito.it/software/microterm</loc>
+Raw filename: ./software/myfilescatalog.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/software/myfilescatalog
+ --x Trovato: https://www.icapito.it/software/myfilescatalog
+<loc>https://www.icapito.it/software/myfilescatalog</loc>
  --x
 Raw filename: ./software/jwmappmenugen.json
- - Mod: 2024-04-03
+ - Mod: 2024-04-08
  - Loc: https://www.icapito.it/software/jwmappmenugen
  --x Trovato: https://www.icapito.it/software/jwmappmenugen
 <loc>https://www.icapito.it/software/jwmappmenugen</loc>
  --x
 Raw filename: ./software/void-scripts.json
- - Mod: 2024-04-03
+ - Mod: 2024-04-08
  - Loc: https://www.icapito.it/software/void-scripts
  --x Trovato: https://www.icapito.it/software/void-scripts
 <loc>https://www.icapito.it/software/void-scripts</loc>
  --x
+Raw filename: ./error.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/error
+ --x Trovato: https://www.icapito.it/error
+<loc>https://www.icapito.it/error</loc>
+ --x
+Raw filename: ./cookie.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/cookie
+ --x Trovato: https://www.icapito.it/cookie
+<loc>https://www.icapito.it/cookie</loc>
+ --x
+Raw filename: ./guide.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/guide
+ --x Trovato: https://www.icapito.it/guide
+<loc>https://www.icapito.it/guide</loc>
+ --x
+Raw filename: ./notizie.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/notizie
+ --x Trovato: https://www.icapito.it/notizie
+<loc>https://www.icapito.it/notizie</loc>
+ --x
+Raw filename: ./home.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/home
+ --x Trovato: https://www.icapito.it/home
+<loc>https://www.icapito.it/home</loc>
+ --x
+Raw filename: ./404.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/404
+ --x Trovato: https://www.icapito.it/404
+<loc>https://www.icapito.it/404</loc>
+ --x
 Raw filename: ./software.json
- - Mod: 2024-04-03
+ - Mod: 2024-04-08
  - Loc: https://www.icapito.it/software
  --x Trovato: https://www.icapito.it/software
 <loc>https://www.icapito.it/software/convertiinntfs</loc>
@@ -742,16 +330,434 @@ Raw filename: ./software.json
 <loc>https://www.icapito.it/software/container-manager</loc>
 <loc>https://www.icapito.it/software/microterm</loc>
  --x
-Raw filename: ./guide.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/guide
- --x Trovato: https://www.icapito.it/guide
-<loc>https://www.icapito.it/guide</loc>
+Raw filename: ./articles/2010/11/15/assistenzaremota-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/11/15/assistenzaremota-10
+ --x Trovato: https://www.icapito.it/articles/2010/11/15/assistenzaremota-10
+<loc>https://www.icapito.it/articles/2010/11/15/assistenzaremota-10</loc>
  --x
-Raw filename: ./menu.json
- - Mod: 2024-04-03
- - Loc: https://www.icapito.it/menu
- --x Trovato: https://www.icapito.it/menu
-<loc>https://www.icapito.it/menu</loc>
+Raw filename: ./articles/2010/11/26/windowsxpupdatefix-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/11/26/windowsxpupdatefix-10
+ --x Trovato: https://www.icapito.it/articles/2010/11/26/windowsxpupdatefix-10
+<loc>https://www.icapito.it/articles/2010/11/26/windowsxpupdatefix-10</loc>
  --x
---> FINE Wed Apr  3 08:23:41 UTC 2024
+Raw filename: ./articles/2010/11/26/convertiinntfs-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/11/26/convertiinntfs-10
+ --x Trovato: https://www.icapito.it/articles/2010/11/26/convertiinntfs-10
+<loc>https://www.icapito.it/articles/2010/11/26/convertiinntfs-10</loc>
+ --x
+Raw filename: ./articles/2010/11/05/isafilterbuilder-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/11/05/isafilterbuilder-10
+ --x Trovato: https://www.icapito.it/articles/2010/11/05/isafilterbuilder-10
+<loc>https://www.icapito.it/articles/2010/11/05/isafilterbuilder-10</loc>
+ --x
+Raw filename: ./articles/2010/10/04/mysqlwindowsfailovercluster.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/10/04/mysqlwindowsfailovercluster
+ --x Trovato: https://www.icapito.it/articles/2010/10/04/mysqlwindowsfailovercluster
+<loc>https://www.icapito.it/articles/2010/10/04/mysqlwindowsfailovercluster</loc>
+ --x
+Raw filename: ./articles/2010/10/22/gfifaxmakererrore1701.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/10/22/gfifaxmakererrore1701
+ --x Trovato: https://www.icapito.it/articles/2010/10/22/gfifaxmakererrore1701
+<loc>https://www.icapito.it/articles/2010/10/22/gfifaxmakererrore1701</loc>
+ --x
+Raw filename: ./articles/2010/10/21/espanderefilevhd.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/10/21/espanderefilevhd
+ --x Trovato: https://www.icapito.it/articles/2010/10/21/espanderefilevhd
+<loc>https://www.icapito.it/articles/2010/10/21/espanderefilevhd</loc>
+ --x
+Raw filename: ./articles/2010/10/21/espanderefilevmdk.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/10/21/espanderefilevmdk
+ --x Trovato: https://www.icapito.it/articles/2010/10/21/espanderefilevmdk
+<loc>https://www.icapito.it/articles/2010/10/21/espanderefilevmdk</loc>
+ --x
+Raw filename: ./articles/2010/10/20/rubricasemplice-11.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/10/20/rubricasemplice-11
+ --x Trovato: https://www.icapito.it/articles/2010/10/20/rubricasemplice-11
+<loc>https://www.icapito.it/articles/2010/10/20/rubricasemplice-11</loc>
+ --x
+Raw filename: ./articles/2010/07/02/backuptramitexcopy.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/07/02/backuptramitexcopy
+ --x Trovato: https://www.icapito.it/articles/2010/07/02/backuptramitexcopy
+<loc>https://www.icapito.it/articles/2010/07/02/backuptramitexcopy</loc>
+ --x
+Raw filename: ./articles/2010/07/04/ftpdarigadicomando.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2010/07/04/ftpdarigadicomando
+ --x Trovato: https://www.icapito.it/articles/2010/07/04/ftpdarigadicomando
+<loc>https://www.icapito.it/articles/2010/07/04/ftpdarigadicomando</loc>
+ --x
+Raw filename: ./articles/2013/01/14/pinger-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/01/14/pinger-10
+ --x Trovato: https://www.icapito.it/articles/2013/01/14/pinger-10
+<loc>https://www.icapito.it/articles/2013/01/14/pinger-10</loc>
+ --x
+Raw filename: ./articles/2013/08/28/checkdns-11.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/08/28/checkdns-11
+ --x Trovato: https://www.icapito.it/articles/2013/08/28/checkdns-11
+<loc>https://www.icapito.it/articles/2013/08/28/checkdns-11</loc>
+ --x
+Raw filename: ./articles/2013/11/21/blackcrypttool-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/11/21/blackcrypttool-10
+ --x Trovato: https://www.icapito.it/articles/2013/11/21/blackcrypttool-10
+<loc>https://www.icapito.it/articles/2013/11/21/blackcrypttool-10</loc>
+ --x
+Raw filename: ./articles/2013/10/02/advancedcopymovefilecommand-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/10/02/advancedcopymovefilecommand-10
+ --x Trovato: https://www.icapito.it/articles/2013/10/02/advancedcopymovefilecommand-10
+<loc>https://www.icapito.it/articles/2013/10/02/advancedcopymovefilecommand-10</loc>
+ --x
+Raw filename: ./articles/2013/09/11/archsoluzionelxdmautologin.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/09/11/archsoluzionelxdmautologin
+ --x Trovato: https://www.icapito.it/articles/2013/09/11/archsoluzionelxdmautologin
+<loc>https://www.icapito.it/articles/2013/09/11/archsoluzionelxdmautologin</loc>
+ --x
+Raw filename: ./articles/2013/09/10/checkdnsrecord-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/09/10/checkdnsrecord-10
+ --x Trovato: https://www.icapito.it/articles/2013/09/10/checkdnsrecord-10
+<loc>https://www.icapito.it/articles/2013/09/10/checkdnsrecord-10</loc>
+ --x
+Raw filename: ./articles/2013/09/10/checkreversedns-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/09/10/checkreversedns-10
+ --x Trovato: https://www.icapito.it/articles/2013/09/10/checkreversedns-10
+<loc>https://www.icapito.it/articles/2013/09/10/checkreversedns-10</loc>
+ --x
+Raw filename: ./articles/2013/09/09/debianservervirtualbox.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/09/09/debianservervirtualbox
+ --x Trovato: https://www.icapito.it/articles/2013/09/09/debianservervirtualbox
+<loc>https://www.icapito.it/articles/2013/09/09/debianservervirtualbox</loc>
+ --x
+Raw filename: ./articles/2013/09/18/iis5o6smtpnotvisible.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2013/09/18/iis5o6smtpnotvisible
+ --x Trovato: https://www.icapito.it/articles/2013/09/18/iis5o6smtpnotvisible
+<loc>https://www.icapito.it/articles/2013/09/18/iis5o6smtpnotvisible</loc>
+ --x
+Raw filename: ./articles/2021/10/25/hidetitlesmod-103.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2021/10/25/hidetitlesmod-103
+ --x Trovato: https://www.icapito.it/articles/2021/10/25/hidetitlesmod-103
+<loc>https://www.icapito.it/articles/2021/10/25/hidetitlesmod-103</loc>
+ --x
+Raw filename: ./articles/2011/06/04/largefilereader-201.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/06/04/largefilereader-201
+ --x Trovato: https://www.icapito.it/articles/2011/06/04/largefilereader-201
+<loc>https://www.icapito.it/articles/2011/06/04/largefilereader-201</loc>
+ --x
+Raw filename: ./articles/2011/06/04/impostazioniproxy-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/06/04/impostazioniproxy-10
+ --x Trovato: https://www.icapito.it/articles/2011/06/04/impostazioniproxy-10
+<loc>https://www.icapito.it/articles/2011/06/04/impostazioniproxy-10</loc>
+ --x
+Raw filename: ./articles/2011/06/03/mysqlbackupdb-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/06/03/mysqlbackupdb-10
+ --x Trovato: https://www.icapito.it/articles/2011/06/03/mysqlbackupdb-10
+<loc>https://www.icapito.it/articles/2011/06/03/mysqlbackupdb-10</loc>
+ --x
+Raw filename: ./articles/2011/03/10/runasbuilder-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/03/10/runasbuilder-10
+ --x Trovato: https://www.icapito.it/articles/2011/03/10/runasbuilder-10
+<loc>https://www.icapito.it/articles/2011/03/10/runasbuilder-10</loc>
+ --x
+Raw filename: ./articles/2011/12/17/anticicio-20.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/12/17/anticicio-20
+ --x Trovato: https://www.icapito.it/articles/2011/12/17/anticicio-20
+<loc>https://www.icapito.it/articles/2011/12/17/anticicio-20</loc>
+ --x
+Raw filename: ./articles/2011/05/30/myfilescatalog-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/05/30/myfilescatalog-10
+ --x Trovato: https://www.icapito.it/articles/2011/05/30/myfilescatalog-10
+<loc>https://www.icapito.it/articles/2011/05/30/myfilescatalog-10</loc>
+ --x
+Raw filename: ./articles/2011/07/26/openwith-101.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/07/26/openwith-101
+ --x Trovato: https://www.icapito.it/articles/2011/07/26/openwith-101
+<loc>https://www.icapito.it/articles/2011/07/26/openwith-101</loc>
+ --x
+Raw filename: ./articles/2011/07/06/managerdptime-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/07/06/managerdptime-10
+ --x Trovato: https://www.icapito.it/articles/2011/07/06/managerdptime-10
+<loc>https://www.icapito.it/articles/2011/07/06/managerdptime-10</loc>
+ --x
+Raw filename: ./articles/2011/07/12/testmysite-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2011/07/12/testmysite-10
+ --x Trovato: https://www.icapito.it/articles/2011/07/12/testmysite-10
+<loc>https://www.icapito.it/articles/2011/07/12/testmysite-10</loc>
+ --x
+Raw filename: ./articles/2015/06/03/coreosanalisifileconf2.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/06/03/coreosanalisifileconf2
+ --x Trovato: https://www.icapito.it/articles/2015/06/03/coreosanalisifileconf2
+<loc>https://www.icapito.it/articles/2015/06/03/coreosanalisifileconf2</loc>
+ --x
+Raw filename: ./articles/2015/12/28/debianjessieservernas.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/12/28/debianjessieservernas
+ --x Trovato: https://www.icapito.it/articles/2015/12/28/debianjessieservernas
+<loc>https://www.icapito.it/articles/2015/12/28/debianjessieservernas</loc>
+ --x
+Raw filename: ./articles/2015/12/27/debianjessieinstallazionebase.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieinstallazionebase
+ --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieinstallazionebase
+<loc>https://www.icapito.it/articles/2015/12/27/debianjessieinstallazionebase</loc>
+ --x
+Raw filename: ./articles/2015/12/27/debianenablesshroot.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/12/27/debianenablesshroot
+ --x Trovato: https://www.icapito.it/articles/2015/12/27/debianenablesshroot
+<loc>https://www.icapito.it/articles/2015/12/27/debianenablesshroot</loc>
+ --x
+Raw filename: ./articles/2015/12/27/debianjessieserverftp.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieserverftp
+ --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieserverftp
+<loc>https://www.icapito.it/articles/2015/12/27/debianjessieserverftp</loc>
+ --x
+Raw filename: ./articles/2015/12/27/debianjessieservernfs.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieservernfs
+ --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieservernfs
+<loc>https://www.icapito.it/articles/2015/12/27/debianjessieservernfs</loc>
+ --x
+Raw filename: ./articles/2015/12/27/debianvggrouplvm.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/12/27/debianvggrouplvm
+ --x Trovato: https://www.icapito.it/articles/2015/12/27/debianvggrouplvm
+<loc>https://www.icapito.it/articles/2015/12/27/debianvggrouplvm</loc>
+ --x
+Raw filename: ./articles/2015/12/27/debianjessieserversamba.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/12/27/debianjessieserversamba
+ --x Trovato: https://www.icapito.it/articles/2015/12/27/debianjessieserversamba
+<loc>https://www.icapito.it/articles/2015/12/27/debianjessieserversamba</loc>
+ --x
+Raw filename: ./articles/2015/05/27/coreosinstallazione.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2015/05/27/coreosinstallazione
+ --x Trovato: https://www.icapito.it/articles/2015/05/27/coreosinstallazione
+<loc>https://www.icapito.it/articles/2015/05/27/coreosinstallazione</loc>
+ --x
+Raw filename: ./articles/2012/01/04/impostazioniproxy-20.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2012/01/04/impostazioniproxy-20
+ --x Trovato: https://www.icapito.it/articles/2012/01/04/impostazioniproxy-20
+<loc>https://www.icapito.it/articles/2012/01/04/impostazioniproxy-20</loc>
+ --x
+Raw filename: ./articles/2012/01/21/middlemousemenu-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2012/01/21/middlemousemenu-10
+ --x Trovato: https://www.icapito.it/articles/2012/01/21/middlemousemenu-10
+<loc>https://www.icapito.it/articles/2012/01/21/middlemousemenu-10</loc>
+ --x
+Raw filename: ./articles/2012/01/21/packardbellsocial-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2012/01/21/packardbellsocial-10
+ --x Trovato: https://www.icapito.it/articles/2012/01/21/packardbellsocial-10
+<loc>https://www.icapito.it/articles/2012/01/21/packardbellsocial-10</loc>
+ --x
+Raw filename: ./articles/2012/08/20/debiansqueezepacchettisid.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2012/08/20/debiansqueezepacchettisid
+ --x Trovato: https://www.icapito.it/articles/2012/08/20/debiansqueezepacchettisid
+<loc>https://www.icapito.it/articles/2012/08/20/debiansqueezepacchettisid</loc>
+ --x
+Raw filename: ./articles/2012/03/15/packardbellsocial-11.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2012/03/15/packardbellsocial-11
+ --x Trovato: https://www.icapito.it/articles/2012/03/15/packardbellsocial-11
+<loc>https://www.icapito.it/articles/2012/03/15/packardbellsocial-11</loc>
+ --x
+Raw filename: ./articles/2012/05/04/bloccopopup-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2012/05/04/bloccopopup-10
+ --x Trovato: https://www.icapito.it/articles/2012/05/04/bloccopopup-10
+<loc>https://www.icapito.it/articles/2012/05/04/bloccopopup-10</loc>
+ --x
+Raw filename: ./articles/2024/01/15/q4os-trinity.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/01/15/q4os-trinity
+ --x Trovato: https://www.icapito.it/articles/2024/01/15/q4os-trinity
+<loc>https://www.icapito.it/articles/2024/01/15/q4os-trinity</loc>
+ --x
+Raw filename: ./articles/2024/01/10/sono-ancora-qua.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/01/10/sono-ancora-qua
+ --x Trovato: https://www.icapito.it/articles/2024/01/10/sono-ancora-qua
+<loc>https://www.icapito.it/articles/2024/01/10/sono-ancora-qua</loc>
+ --x
+Raw filename: ./articles/2024/01/05/anno-nuovo.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/01/05/anno-nuovo
+ --x Trovato: https://www.icapito.it/articles/2024/01/05/anno-nuovo
+<loc>https://www.icapito.it/articles/2024/01/05/anno-nuovo</loc>
+ --x
+Raw filename: ./articles/2024/02/15/container-manager.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/02/15/container-manager
+ --x Trovato: https://www.icapito.it/articles/2024/02/15/container-manager
+<loc>https://www.icapito.it/articles/2024/02/15/container-manager</loc>
+ --x
+Raw filename: ./articles/2024/02/07/fedora-lxqt-lxde.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde
+ --x Trovato: https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde
+<loc>https://www.icapito.it/articles/2024/02/07/fedora-lxqt-lxde</loc>
+ --x
+Raw filename: ./articles/2024/04/08/microterm-21.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/04/08/microterm-21
+ --> Aggiungo: https://www.icapito.it/articles/2024/04/08/microterm-21
+Raw filename: ./articles/2024/04/03/microterm-20.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/04/03/microterm-20
+ --x Trovato: https://www.icapito.it/articles/2024/04/03/microterm-20
+<loc>https://www.icapito.it/articles/2024/04/03/microterm-20</loc>
+ --x
+Raw filename: ./articles/2024/03/14/microterm-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/03/14/microterm-10
+ --x Trovato: https://www.icapito.it/articles/2024/03/14/microterm-10
+<loc>https://www.icapito.it/articles/2024/03/14/microterm-10</loc>
+ --x
+Raw filename: ./articles/2024/03/13/linuxlite-xfce.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2024/03/13/linuxlite-xfce
+ --x Trovato: https://www.icapito.it/articles/2024/03/13/linuxlite-xfce
+<loc>https://www.icapito.it/articles/2024/03/13/linuxlite-xfce</loc>
+ --x
+Raw filename: ./articles/2018/04/28/advancedrun-11.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2018/04/28/advancedrun-11
+ --x Trovato: https://www.icapito.it/articles/2018/04/28/advancedrun-11
+<loc>https://www.icapito.it/articles/2018/04/28/advancedrun-11</loc>
+ --x
+Raw filename: ./articles/2018/04/22/advancedrun-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2018/04/22/advancedrun-10
+ --x Trovato: https://www.icapito.it/articles/2018/04/22/advancedrun-10
+<loc>https://www.icapito.it/articles/2018/04/22/advancedrun-10</loc>
+ --x
+Raw filename: ./articles/2018/04/29/advancedrun-12.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2018/04/29/advancedrun-12
+ --x Trovato: https://www.icapito.it/articles/2018/04/29/advancedrun-12
+<loc>https://www.icapito.it/articles/2018/04/29/advancedrun-12</loc>
+ --x
+Raw filename: ./articles/2017/02/01/middlemousemenu-20.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2017/02/01/middlemousemenu-20
+ --x Trovato: https://www.icapito.it/articles/2017/02/01/middlemousemenu-20
+<loc>https://www.icapito.it/articles/2017/02/01/middlemousemenu-20</loc>
+ --x
+Raw filename: ./articles/2017/10/15/mycustomstarts-11.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2017/10/15/mycustomstarts-11
+ --x Trovato: https://www.icapito.it/articles/2017/10/15/mycustomstarts-11
+<loc>https://www.icapito.it/articles/2017/10/15/mycustomstarts-11</loc>
+ --x
+Raw filename: ./articles/2017/09/23/jwmappmenugen-081.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2017/09/23/jwmappmenugen-081
+ --x Trovato: https://www.icapito.it/articles/2017/09/23/jwmappmenugen-081
+<loc>https://www.icapito.it/articles/2017/09/23/jwmappmenugen-081</loc>
+ --x
+Raw filename: ./articles/2022/11/25/jwmscripts.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2022/11/25/jwmscripts
+ --x Trovato: https://www.icapito.it/articles/2022/11/25/jwmscripts
+<loc>https://www.icapito.it/articles/2022/11/25/jwmscripts</loc>
+ --x
+Raw filename: ./articles/2022/10/16/menugenerator-11.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2022/10/16/menugenerator-11
+ --x Trovato: https://www.icapito.it/articles/2022/10/16/menugenerator-11
+<loc>https://www.icapito.it/articles/2022/10/16/menugenerator-11</loc>
+ --x
+Raw filename: ./articles/2022/09/14/uat-javascript-blog-11.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2022/09/14/uat-javascript-blog-11
+ --x Trovato: https://www.icapito.it/articles/2022/09/14/uat-javascript-blog-11
+<loc>https://www.icapito.it/articles/2022/09/14/uat-javascript-blog-11</loc>
+ --x
+Raw filename: ./articles/2022/06/12/sswb.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2022/06/12/sswb
+ --x Trovato: https://www.icapito.it/articles/2022/06/12/sswb
+<loc>https://www.icapito.it/articles/2022/06/12/sswb</loc>
+ --x
+Raw filename: ./articles/2022/12/19/myexit-10.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2022/12/19/myexit-10
+ --x Trovato: https://www.icapito.it/articles/2022/12/19/myexit-10
+<loc>https://www.icapito.it/articles/2022/12/19/myexit-10</loc>
+ --x
+Raw filename: ./articles/2023/01/25/void-scripts.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2023/01/25/void-scripts
+ --x Trovato: https://www.icapito.it/articles/2023/01/25/void-scripts
+<loc>https://www.icapito.it/articles/2023/01/25/void-scripts</loc>
+ --x
+Raw filename: ./articles/2023/04/26/java-restclient.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2023/04/26/java-restclient
+ --x Trovato: https://www.icapito.it/articles/2023/04/26/java-restclient
+<loc>https://www.icapito.it/articles/2023/04/26/java-restclient</loc>
+ --x
+Raw filename: ./articles/2023/04/25/java-jsonservice.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2023/04/25/java-jsonservice
+ --x Trovato: https://www.icapito.it/articles/2023/04/25/java-jsonservice
+<loc>https://www.icapito.it/articles/2023/04/25/java-jsonservice</loc>
+ --x
+Raw filename: ./articles/2023/12/13/valaotp.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2023/12/13/valaotp
+ --x Trovato: https://www.icapito.it/articles/2023/12/13/valaotp
+<loc>https://www.icapito.it/articles/2023/12/13/valaotp</loc>
+ --x
+Raw filename: ./articles/2023/05/04/mywhatsappweb.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2023/05/04/mywhatsappweb
+ --x Trovato: https://www.icapito.it/articles/2023/05/04/mywhatsappweb
+<loc>https://www.icapito.it/articles/2023/05/04/mywhatsappweb</loc>
+ --x
+Raw filename: ./articles/2023/05/03/site2app.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/articles/2023/05/03/site2app
+ --x Trovato: https://www.icapito.it/articles/2023/05/03/site2app
+<loc>https://www.icapito.it/articles/2023/05/03/site2app</loc>
+ --x
+Raw filename: ./about.json
+ - Mod: 2024-04-08
+ - Loc: https://www.icapito.it/about
+ --x Trovato: https://www.icapito.it/about
+<loc>https://www.icapito.it/about</loc>
+ --x
+--> FINE Mon Apr  8 14:00:59 UTC 2024
