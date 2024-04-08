@@ -48,7 +48,8 @@ Le funzioni valide sono:
  - prev: switch to the previous tab
  - next: switch to the next tab
  - close: close selected tab
- - goto <n>: go to specified tab
+ - goto `n`: go to specified tab
+ - exec `command`: send and execute command to current terminal
  - cmd: open command prompt
 
 Nel repository su git &egrave; presente un file di configurazione di esempio con riportate le hotkeys definite nella precedente versione 1.0.
@@ -66,5 +67,6 @@ Nel file di configurazione di esempio &egrave; stato associato il tasto *F2* all
 
 ## Rilasci:
 
+ - [2.1](${site_url}/articles/2024/04/08/microterm-21) (08/04/2024)
  - [2.0](${site_url}/articles/2024/04/03/microterm-20) (03/04/2024)
  - [1.0](${site_url}/articles/2024/03/14/microterm-10) (14/03/2024)
