@@ -1,6 +1,6 @@
 ## Linux
 
- - [Microterm (µterm)](${site_url}/software/microterm) (Release: [2.0](${site_url}/articles/2024/04/03/microterm-20) - 03/04/2024)\n
+ - [Microterm (µterm)](${site_url}/software/microterm) (Release: [2.1](${site_url}/articles/2024/04/08/microterm-21) - 08/04/2024)\n
  - [Container manager](${site_url}/software/container-manager) (Release: [20240213.1](${site_url}/articles/2024/02/15/container-manager) - 15/02/2024)\n
  - [JWM application menu generator](${site_url}/software/jwmappmenugen) (Release: [0.8.1](${site_url}/articles/2017/09/23/jwmappmenugen-081) - 23/09/2017)\n
  - [JWM Scripts](${site_url}/software/jwmscripts) (Release: [20221125.1635](${site_url}/articles/2022/11/25/jwmscripts) - 25/11/2022)\n

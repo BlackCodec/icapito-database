@@ -1,0 +1,9 @@
+Aggiornamento per l'emulatore Microterm (µterm) che risolve un bug con il comando paste e aggiunge la funzione exec per consentire di inviare comandi al terminale direttamente
+tramite una combinazione da tastiera o dal command prompt.
+
+## Download:
+
+[Repository](https://github.com/BlackCodec/microterm)
+
+## Rilasci:
+[2.1](${site_url}/articles/2024/04/08/microterm-21) - 08/04/2024
