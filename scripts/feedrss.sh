@@ -21,8 +21,8 @@ content=""
 for day in $(ls -1); do
   for curr_file_name in $(ls -1 "./${day}/"); do
     curr_file="${base_dir}/${year}/${month}/${day}/${curr_file_name}"
-    title=$(cat ${curr_file} | jq '.title')
-    desc=$(cat ${curr_file} | jq '.description')
+    title=$(cat ${curr_file} | jq '.title' | sed 's|\"||g')
+    desc=$(cat ${curr_file} | jq '.description' | sed 's|\"||g')
     t_name=${curr_file_name%.*}
     link=$(echo "${base_url}/${year}/${month}/${day}/${t_name}")
     t_uid=$(echo "${year}.${month}.${day}-${t_name}")
