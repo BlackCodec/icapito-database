@@ -1,0 +1,7 @@
+{
+    "content": "${file:microterm-22.txt}",
+    "template": "article",
+    "title": "Microterm 2.2",
+    "type": "markdown",
+    "description": "Code optimization relase per microterm (µterm), un semplice emulatore di terminale basato su VTE e scritto in C che sfrutta le librerie grafiche GTK."
+}
