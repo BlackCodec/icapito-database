@@ -1,4 +1,4 @@
---> INIZIO Wed Apr 10 08:01:59 UTC 2024
+--> INIZIO Wed Apr 10 08:26:20 UTC 2024
 File esistente, rimozione linea
 Raw filename: ./menu.json
  - Mod: 2024-04-10
@@ -639,7 +639,9 @@ Raw filename: ./articles/2024/04/08/microterm-21.json
 Raw filename: ./articles/2024/04/10/microterm-22.json
  - Mod: 2024-04-10
  - Loc: https://www.icapito.it/articles/2024/04/10/microterm-22
- --> Aggiungo: https://www.icapito.it/articles/2024/04/10/microterm-22
+ --x Trovato: https://www.icapito.it/articles/2024/04/10/microterm-22
+<loc>https://www.icapito.it/articles/2024/04/10/microterm-22</loc>
+ --x
 Raw filename: ./articles/2024/04/03/microterm-20.json
  - Mod: 2024-04-10
  - Loc: https://www.icapito.it/articles/2024/04/03/microterm-20
@@ -766,4 +768,4 @@ Raw filename: ./about.json
  --x Trovato: https://www.icapito.it/about
 <loc>https://www.icapito.it/about</loc>
  --x
---> FINE Wed Apr 10 08:02:00 UTC 2024
+--> FINE Wed Apr 10 08:26:21 UTC 2024

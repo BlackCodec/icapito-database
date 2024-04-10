@@ -4,9 +4,14 @@
   <title>iCapito</title>
   <link>https://www.icapito.it</link>
   <description>Ex UndeR A TraiN and BlackGroup</description>
-  <lastBuildDate>Mon, 08 Apr 2024 14:00:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Apr 2024 08:02:00 +0000</lastBuildDate>
   <language>it-IT</language>
   <item>
+   <title>"Microterm 2.2"</title>
+   <link>https://www.icapito.it/articles/2024/04/10/microterm-22</link>
+   <guid>2024.04.10-microterm-22</guid>
+   <description>"Code optimization relase per microterm (µterm), un semplice emulatore di terminale basato su VTE e scritto in C che sfrutta le librerie grafiche GTK."</description>
+  </item>  <item>
    <title>"Microterm 2.1"</title>
    <link>https://www.icapito.it/articles/2024/04/08/microterm-21</link>
    <guid>2024.04.08-microterm-21</guid>
